@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<assessmentItems>
+	<assessmentItem subject="Web" author="jvadillo001@ikasle.ehu.eus">
+		<itemBody>
+			<p>Tag HTML para a&#xF1;adir un formulario</p>
+		</itemBody>
+		<correctResponse>
+			<value>
+				FORM
+			</value>
+		</correctResponse>
+		<incorrectResponses>
+			<value> OBJECT </value>
+			<value> TABLE </value>
+			<value> DIV </value>
+		</incorrectResponses>
+	</assessmentItem>
+	<assessmentItem subject="Internet" author="rarruabarrena001@ikasle.ehu.eus">
+		<itemBody>
+			<p>Este protocolo acabar&#xE1; funcionando
+			incluso entre dos latas unidas por un cord&#xF3;n</p>
+		</itemBody>
+		<correctResponse>
+			<value>
+				TCP/IP
+			</value>
+		</correctResponse>
+		<incorrectResponses>
+			<value> HTTP </value>
+			<value> SMTP </value>
+			<value> Ninguna es correcta </value>
+		</incorrectResponses>
+	</assessmentItem>
+<assessmentItem subject="saludo" author="tomas001@ikasle.ehu.eus"><itemBody><p>holaholahola</p></itemBody><correctResponse><value>chauchauchau</value></correctResponse><incorrectResponses><value>asdasd</value><value>asdasd</value><value>asdasd</value></incorrectResponses></assessmentItem><assessmentItem subject="futbol" author="tomas001@ikasle.ehu.eus"><itemBody><p>equipo mas grande</p></itemBody><correctResponse><value>river</value></correctResponse><incorrectResponses><value>boca</value><value>penarol</value><value>nacional</value></incorrectResponses></assessmentItem><assessmentItem subject="comida" author="tomas001@ikasle.ehu.eus"><itemBody><p>verduras o frutas</p></itemBody><correctResponse><value>lechuga</value></correctResponse><incorrectResponses><value>pollo</value><value>cerdo</value><value>pescado</value></incorrectResponses></assessmentItem><assessmentItem subject="hola" author="tom000@ikasle.ehu.eus"><itemBody><p>hola com oestas</p></itemBody><correctResponse><value>saludo</value></correctResponse><incorrectResponses><value>1</value><value>1</value><value>1</value></incorrectResponses></assessmentItem></assessmentItems>
