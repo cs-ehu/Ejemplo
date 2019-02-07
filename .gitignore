@@ -1,3 +1,6 @@
+# directorios que no se almacenarán:
 tmp/
+# tipos de ficheros que no se almacenarán:
 *.a
 *~
+# recordar que estas líneas son comentarios.
