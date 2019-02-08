@@ -1,5 +1,10 @@
-#! /bin/bash
-PROYECTO=$1 
+#! /bin/bash 
+#
+# uso: mktree.sh PROYECTO-X 
+# 
+# mediante este script se construye un árbol de directorios 
+# con una estructura similar a la propuesta en la norma UNE 157801
+
 mkdir $PROYECTO 
 cd $PROYECTO 
 
