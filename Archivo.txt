@@ -1,13 +1,5 @@
-Contenido de archivo. Modificacion por FerMod. Deberían haber conflictos.
-Contenido del archivo <- modificado por FosterGun
-
+﻿
 Los conflictos se muestran como:
-
-<<<<<<< HEAD
-Contenido de archivo. Modificacion por FerMod. Deberían haber conflictos.
-=======
-Contenido del archivo <- modificado por FosterGun
->>>>>>> origin/FosterGun
 
 NUNCA SUBIR CODIGO CON CONFLICTOS!
 
