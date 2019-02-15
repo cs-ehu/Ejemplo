@@ -16,6 +16,8 @@ ya que ahorrará mucho trabajo futuro y evitará
 depcepciones a la hora de presentar la aplicación
 al cliente.
 
+> Debería disponerse (o redactarse) en la fase de planificación.
+
 Algunas de las partes de este documento tienen que servir para:
 
 * Mostrar las pantallas iniciales de la aplicación.
