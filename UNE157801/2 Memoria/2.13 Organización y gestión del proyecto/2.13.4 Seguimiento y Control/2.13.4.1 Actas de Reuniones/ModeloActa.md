@@ -2,9 +2,21 @@
 
 - Fecha
 - Lugar: FISS (Aula 1.2)
-- Asistentes:
-> Aitor, Gorka, Christian, Aritz,Karla,
-Pilar, Vesko, Issur, Michel, Urko, Iñigo, Ferran, Federico [14]
+- Asistentes: 14
+
+    - Aitor, 
+    - Gorka, 
+    - Christian, 
+    - Aritz,
+    - Karla,
+    - Pilar, 
+    - Vesko, 
+    - Issur, 
+    - Michel, 
+    - Urko, 
+    - Iñigo, 
+    - Ferran, 
+    - Federico
 
 - Coordina: 
 - Registra: 
