@@ -1,4 +1,3 @@
-###highlight=[15,16,17,18,19,20,21,22,23]
 # Acta Reunión Equipo CS-19
 
 - Fecha :18.02
@@ -31,8 +30,10 @@
     4. Proposiciones para la realización del documento
 
 ## Temas tratados
-    Partimos de la necesidad de realizar un examen global de la asignatura ateniéndonos a los requisitos recibidos mediante email por el profesor:
-    “El examen global consistirá en un documento en el que se registrarán las 
+    Partimos de la necesidad de realizar un examen global
+ de la asignatura ateniéndonos a los requisitos recibidos mediante email por el profesor:
+
+>    “El examen global consistirá en un documento en el que se registrarán las 
     herramientas seleccionadas, y cada una de las referencias a estudiar por 
     los nuevos componentes del equipo, con los tiempos medios previstos y
     las desviaciones habidas en los mismos con el registro de los tiempos
