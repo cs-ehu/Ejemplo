@@ -1,1 +1,18 @@
-info
+4.3 Orden de prioridad
+**********************
+
+En el caso en que existan discrepancias o incompatibilidades entre diferentes documentos, 
+debe prevalecer es siguiente orden:
+
+1) Especificaciones del Sistema
+2) Presupuesto
+3) Memoria
+
+Salvo que se haya especificado otro orden de prioridad en la Memoria.
+
+Nota: Téngase en cuenta que este orden es relativo ya que cuando existen discrepancias
+normalmente se solucionan mediante una reunión entre la dirección del proyecto y los
+interesados. Es muy habitual seguir lo indicado en el presupuesto, ya que en caso contrario
+el contratista puede negarse a realizar las modificaciones solicitadas si no se realizan
+las oportunas correcciones en el Presupuesto.
+
