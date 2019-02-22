@@ -1,8 +1,3 @@
-:::info
-Herramienta Git
-> [name=Ferran Tudela][name=Miguel Ángel Blanco]
-:::
-
 
 ##  Git
 
