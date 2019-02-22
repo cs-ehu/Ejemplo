@@ -50,7 +50,7 @@
     1. Listas de verificación de calidad
     1. Métricas de calidad
 1. Documentación de requisitos
-1.     Matriz de trazabilidad de requisitos
+    1. Matriz de trazabilidad de requisitos
 1. Relación de adquisiciones
     1. Criterios de selección de proveedores
     1. Relación de acuerdos con proveedores
