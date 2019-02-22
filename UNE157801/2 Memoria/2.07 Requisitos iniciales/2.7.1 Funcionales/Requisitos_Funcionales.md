@@ -1,6 +1,5 @@
 ##### Requisitos Funcionales
-[Documentación] 
-(https://es.wikiversity.org/wiki/Ingenier%C3%ADa_de_requisitos_software)
+[Documentación](https://es.wikiversity.org/wiki/Ingenier%C3%ADa_de_requisitos_software)
 
 #### Introducción 
 ### Requisitos del sistema
@@ -21,3 +20,7 @@ Requisitos no funcionales: Son restricciones de los servicios del sistema o func
 3. Requisitos de dominio: Estos requisitos reflejan características del dominio de la aplicación. Ejemplo: la forma en la que se comunicarán distintas partes de la aplicación, el tipo de datos con los que trabajará, etc.
 
 #### Estudio de los requisitos funcionales de un determinado proyecto : WS_Lab2
+~~~
+Lo que debe hacer o los servicios que debe proporcionar el sistema. 
+Ejemplo: en un software de gestión de una biblioteca podrían ser requisitos funcionales dar de alta un cliente, alquilar un libro, devolver un libro, comprar un libro, etc. Los requisitos funcionales deben describir también cómo responderá el sistema ante estas distintas entradas, y su comportamiento frente a situaciones particulares
+~~~
