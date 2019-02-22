@@ -25,3 +25,7 @@ Lo que debe hacer o los servicios que debe proporcionar el sistema.
 Ejemplo: en un software de gestión de una biblioteca podrían ser requisitos funcionales dar de alta un cliente, alquilar un libro, devolver un libro, comprar un libro, etc. Los requisitos funcionales deben describir también cómo responderá el sistema ante estas distintas entradas, y su comportamiento frente a situaciones particulares
 ~~~
 > El proyecto ***WS_Lab2*** tiene los siguientes requisitos funcionales con las respuestas del sistema correspondientes así como su comportamiento frente a situaciones particulares
+> Es un quiz de preguntas y respuestas que permite 
+> 1. Al usuario no registrado:
+> 2. Al usuario registrado:
+> 3. Al administrador:
