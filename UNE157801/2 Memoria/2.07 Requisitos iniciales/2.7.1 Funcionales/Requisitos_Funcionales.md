@@ -26,6 +26,8 @@ Ejemplo: en un software de gestión de una biblioteca podrían ser requisitos fu
 ~~~
 > El proyecto ***WS_Lab2*** tiene los siguientes requisitos funcionales con las respuestas del sistema correspondientes así como su comportamiento frente a situaciones particulares
 > Es un quiz de preguntas y respuestas que permite 
-> 1. Al usuario no registrado:
+> 1. Al usuario no registrado: 
+Le permite jugar por temas o bien juego aleatorio.
+En cualquier caso puede escoger jugar con Nick y crearlo.
 > 2. Al usuario registrado:
 > 3. Al administrador:
