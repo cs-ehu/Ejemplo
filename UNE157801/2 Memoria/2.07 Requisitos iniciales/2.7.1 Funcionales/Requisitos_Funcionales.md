@@ -30,4 +30,6 @@ Ejemplo: en un software de gestión de una biblioteca podrían ser requisitos fu
 Le permite jugar por temas o bien juego aleatorio.
 En cualquier caso puede escoger jugar con Nick y crearlo.
 > 2. Al usuario registrado:
+Al usuario que se ha logueado se le comunica un historial de su juego ya que entra en una sesión.
 > 3. Al administrador:
+Es quien crea las preguntas, las modifica y las borra.
