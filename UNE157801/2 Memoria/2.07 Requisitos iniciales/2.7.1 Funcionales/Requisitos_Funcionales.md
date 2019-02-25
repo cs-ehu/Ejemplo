@@ -4,7 +4,9 @@
 #### Introducción 
 ### Requisitos del sistema
 ~~~
-Entender las necesidades exactas de los usuarios de un sistema y traducir éstas a precisas funciones y acciones que subsecuentemente serán usadas en el desarrollo del sistema.
+>Entender las necesidades exactas de los usuarios de un sistema
+y traducir éstas a funciones y acciones que subsecuentemente 
+serán usadas en el desarrollo del sistema.
 ~~~
 ## Requisito
 1. Una condición o capacidad requerida por un usuario para resolver un problema o alcanzar un objetivo.
