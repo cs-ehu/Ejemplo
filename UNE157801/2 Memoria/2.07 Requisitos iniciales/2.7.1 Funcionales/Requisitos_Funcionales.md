@@ -26,23 +26,30 @@ A su vez los requisitos de sistema pueden dividirse en:
  - no funcionales y 
  - de dominio.
  
-2. **Requisitos funcionales**: Especifican lo que debe hacer o los servicios que debe proporcionar el sistema. Ejemplo: en un software de gestión de una biblioteca podrían ser requisitos funcionales dar de alta un cliente, alquilar un libro, devolver un libro, comprar un libro, etc. Los requisitos funcionales deben describir también cómo responderá el sistema ante estas distintas entradas, y su comportamiento frente a situaciones particulares.
-Requisitos no funcionales: Son restricciones de los servicios del sistema o funciones que ofrece. Ejemplo: en un software de gestión de compras de una tienda podrían ser requisitos no funcionales un tpv para pagar con tarjeta, un PC con memoria y espacio en disco para almacenar la base de datos de ventas, que sea capaz de atender a la vez a varios clientes, que no tarde más de X tiempo en gestionar una venta, etc.
-3. Requisitos de dominio: Estos requisitos reflejan características del dominio de la aplicación. Ejemplo: la forma en la que se comunicarán distintas partes de la aplicación, el tipo de datos con los que trabajará, etc.
+2. **Requisitos funcionales**: Especifican lo que debe hacer o los servicios que debe proporcionar el sistema. 
 
-#### Estudio de los requisitos funcionales de un determinado proyecto : WS_Lab2
+Por ejemplo, en un software de gestión de una biblioteca podrían ser requisitos funcionales dar de alta un cliente, alquilar un libro, devolver un libro, comprar un libro, etc. 
+
+Los requisitos funcionales deben describir también cómo responderá el sistema ante estas distintas entradas, y su comportamiento frente a situaciones particulares.
+
+3. **Requisitos no funcionales**: Son restricciones de los servicios del sistema o funciones que ofrece. 
+
+Por ejemplo, en un software de gestión de compras de una tienda podrían ser requisitos no funcionales un tpv para pagar con tarjeta, un PC con memoria y espacio en disco para almacenar la base de datos de ventas, que sea capaz de atender a la vez a varios clientes, que no tarde más de X tiempo en gestionar una venta, etc.
+
+3. **Requisitos de dominio**: Estos requisitos reflejan características del dominio de la aplicación. 
+
+Por ejemplo, la forma en la que se comunicarán distintas partes de la aplicación, el tipo de datos con los que trabajará, etc.
+
+#### Ejemplo: Estudio de los requisitos funcionales del proyecto : WS_Lab2
 ~~~
 > Lo que debe hacer o los servicios que debe proporcionar el sistema. 
 
-Ejemplo: en un software de gestión de una biblioteca podrían ser requisitos funcionales 
-dar de alta un cliente, alquilar un libro, devolver un libro, comprar un libro, etc. 
-
-Los requisitos funcionales deben describir también cómo responderá el sistema ante estas distintas entradas, y su comportamiento frente a situaciones particulares
+Los requisitos funcionales deben describir cómo responderá el sistema ante estas distintas entradas, 
+y su comportamiento frente a situaciones particulares
 
 ~~~
 ##### El proyecto ***WS_Lab2*** tiene los siguientes requisitos funcionales
-con las respuestas del sistema correspondientes 
-así como su comportamiento frente a situaciones particulares
+
 
 > Es un quiz de preguntas y respuestas que permite 
   > 1. Al usuario no registrado: 
