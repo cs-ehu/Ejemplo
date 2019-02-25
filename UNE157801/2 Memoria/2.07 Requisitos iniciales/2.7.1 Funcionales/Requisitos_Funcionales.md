@@ -4,8 +4,8 @@
 #### Introducción 
 ### Requisitos del sistema
 ~~~
-Entender las necesidades exactas de los usuarios de un sistema 
-y traducir éstas a funciones y acciones que subsecuentemente  
+Entender las necesidades exactas de los usuarios
+y traducir éstas a funciones y acciones que subsecuentemente 
 serán usadas en el desarrollo del sistema.
 ~~~
 ## Requisito
