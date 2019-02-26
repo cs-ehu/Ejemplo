@@ -14,7 +14,8 @@ LaTeX es un sistema de composición de textos, orientado a la creación de docum
 | 3       | LaTeX para usuarios de porcesadores de texto        | [Curso con comandos más versátiles](https://web.archive.org/web/20050307221106/http://bulma.net:80/~aaloy/latex4wp.pdf) | 03:00:00|
 | 4       | Diferencias entre TeX y LaTeX        | [TeX vs LaTeX](https://www.ibiblio.org/pub/linux/docs/LuCaS/CervanTeX/CervanTeX/QueesTeX.html#intro) | 01:00:00|
 | 5       | Representar código de manera correcta        | [Comandos para código](http://www.rafalinux.com/?p=599) | 02:00:00|
-| 6       | Pandoc para conversiones de LaTeX a otros formatos y viceversa       | [Manual Pandoc](https://pandoc.org/MANUAL.html) | 04:00:00|
+| 6       | Resumen comandos Pandoc para conversiones de LaTeX a otros formatos y viceversa       | [Manual Pandoc](https://pandoc.org/MANUAL.html) | 04:00:00|
+
 
 
 #### Opcionales
@@ -37,4 +38,11 @@ La herramienta LaTeX para la creación de documentos formales es muy compleja de
 * Curva de aprendizaje muy lenta.
 * Muchas cosas se pueden realizar de manera más sencilla mediante MarkDown y luego transformarlas a formato latex de mayor calidad.
 ### Conclusiones
-La herramienta en general es bastante buena, sobre todo para la creacón de textos formales, pero en nuestro caso no es del todo útil ya que gran parte de las cosas que nosotros realizamos se pueden hacer de manera más fácil mediante otras herramientas como MarkDown. De esta manera, usando recursos como Pandoc, habiendo realizado el documento de una manera más sencilla (MarkDown) podemos convertirlo a toda la complejidad de un documento LaTeX sin necesidad de saber todas las etiquetas necesarias para ello.
+La herramienta en general es bastante buena, sobre todo para la creacón de textos formales, 
+pero en nuestro caso no es del todo útil ya que gran parte de nuestro trabajo
+se puede hacer de manera más fácil mediante otras herramientas como MarkDown. 
+De esta manera, usando recursos como Pandoc, habiendo realizado el documento 
+de una manera más sencilla (MarkDown) podemos convertirlo a toda la 
+complejidad de un documento LaTeX sin necesidad de saber 
+todas las etiquetas.
+
