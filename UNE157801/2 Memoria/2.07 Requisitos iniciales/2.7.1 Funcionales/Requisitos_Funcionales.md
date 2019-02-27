@@ -51,7 +51,7 @@ y su comportamiento frente a situaciones particulares
 ##### El proyecto ***WS_Lab2*** tiene los siguientes requisitos funcionales
 
 ##### [Otras fuentes de documentación contrastadas](http://www.juntadeandalucia.es/servicios/madeja/contenido/recurso/407)
-![Estructura básica y dependencias de la Especificación de Requisitos del Sistema](UNE157801/2-Memoria/2.07-Requisitos-iniciales/2.7.1-Funcionales/captura.png)
+![Estructura básica y dependencias de la Especificación de Requisitos del Sistema](https://github.com/cs-ehu/Ejemplo/blob/pilar-1/UNE157801/2%20Memoria/2.07%20Requisitos%20iniciales/2.7.1%20Funcionales/captura.png)
 > Es un quiz de preguntas y respuestas que permite 
   > 1. Al usuario no registrado: 
     - Le permite jugar por temas o bien juego aleatorio.
