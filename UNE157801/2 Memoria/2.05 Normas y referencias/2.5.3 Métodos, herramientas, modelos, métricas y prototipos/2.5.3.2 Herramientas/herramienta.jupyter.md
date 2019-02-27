@@ -68,4 +68,4 @@ Me gusta decir que big data significa grandes problemas. Por lo general, comienz
 ### Conclusiones
 Jupyter es una herramienta libre fantástica que se está convirtiendo en el estándar en el mundo del análisis de datos. La comunidad que lo impulsa es muy activa y heterogénea, lo que está enriqueciendo el desarrollo y la integración con otras herramientas y plataformas.
 
-Su impacto está siendo tan importante que hasta la prestigiosa revista científica Nature le ha dedicado un artículo que incluye una interesante demo interactiva y describe todas las ventajas de utilizar Jupyter en el mundo del análisis de datos científicos.()
+Su impacto está siendo tan importante que hasta la prestigiosa revista científica Nature le ha dedicado un artículo que incluye una interesante demo interactiva y describe todas las ventajas de utilizar Jupyter en el mundo del análisis de datos científicos.
