@@ -19,7 +19,7 @@ El diccionario de la ***EDT(Estructura de Desglose de Trabajos)-WBS(Work Breakdo
  * Información sobre contactos
  * Código de cuenta de control
 
-Las ***cuentas de control*** de la EDT son puntos de control donde se mide el rendimiento conjunto del alcance, del coste y del cronograma. Y tendrán un código para identificarlos.
+    Las ***cuentas de control*** de la EDT son puntos de control donde se mide el rendimiento conjunto del alcance, del coste y del cronograma. Y tendrán un código para identificarlos.
 
 **Contenido por componente:**
 Cada componente tendrá que tener todos los puntos anteriormente nombrados, pero solo se detallara lo que le afecte al componente.
