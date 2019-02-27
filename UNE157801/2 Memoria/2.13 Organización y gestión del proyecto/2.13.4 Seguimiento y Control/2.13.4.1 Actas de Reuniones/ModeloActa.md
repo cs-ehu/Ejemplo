@@ -22,8 +22,6 @@
 - Coordina: Personas
 - Registra: Personas
 
----
-
 ## Orden del día
 1. 
 2. 
