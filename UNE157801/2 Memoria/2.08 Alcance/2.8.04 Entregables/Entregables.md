@@ -28,14 +28,14 @@ Entonces, un **entregable** puede ser,
         *	Estudios
         *	Procedimientos
         *	Especificaciones
-        *	Reportes
+        *	Informes
 
 La EDT es una lista estructurada de los entregables.  Un mismo proyecto puede entonces contener entregables de tipo producto, servicio y resultado. Por ejemplo una empresa desea desarrollar y vender un nuevo modelo de teléfono celular. La EDT podría contener,
 
 **Proyecto Celular**
-*	Reportes de Gestión
+*	Informes de Gestión
 *	Estudios de Mercado
-*	Celular Diseñado de Celular
-*	Fabrica Diseñada y Construída
+*	Diseño del teléfono mávil
+*	Diseño y construcción de la fábrica
 *	Campaña Comercial Diseñada y Realizada
 *	Puntos de Venta Implementados
