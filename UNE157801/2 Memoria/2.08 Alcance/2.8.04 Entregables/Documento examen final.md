@@ -1,8 +1,8 @@
 # Documento examen final
 
 ## Índice
-* [Introducción](#Introducción1)
-* [Planificación](#Planificación1)
+* [Introducción](#Introducción)
+* [Planificación](#Planificación)
     * [Alcance](#Alcance)
     * [Descripción de los objetivos concretos del proyecto](#Descripción-de-los-objetivos-concretos-del-proyecto)
     * [Asignación de responsabilidades y encargos a los miembros del grupo](#Asignación-de-responsabilidades-y-encargos-a-los-miembros-del-grupo)
