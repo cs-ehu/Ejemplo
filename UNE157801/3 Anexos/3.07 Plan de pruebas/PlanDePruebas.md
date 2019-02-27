@@ -14,27 +14,27 @@ Las pruebas dinámicas permiten el uso de técnicas de caja negra y caja blanca 
 Para que una prueba unitaria tenga la _calidad suficiente_ se deben cumplir los siguientes requisitos:
 
 #### Características
-- **Automatizable**
+- **Automatizable**  
 No debería requerirse una intervención manual. Esto es especialmente útil para integración continua
-- **Completas**
+- **Completas**  
 Deben cubrir la mayor cantidad de código.
-- **Repetibles o Reutilizables**
+- **Repetibles o Reutilizables**  
 No se deben crear pruebas que sólo puedan ser ejecutadas una sola vez. También es útil para integración continua
-- **Independientes**
+- **Independientes**  
 La ejecución de una prueba no debe afectar a la ejecución de otra.
-- **Profesionales**
+- **Profesionales**  
 Las pruebas deben ser consideradas igual que el código, con la misma profesionalidad, documentación, etc.
 
 #### Ventajas
 El objetivo de las pruebas unitarias es aislar cada parte del programa y mostrar que las partes individuales son correctas. Proporcionan un contrato escrito que el trozo de código debe satisfacer. Estas pruebas aisladas proporcionan cinco ventajas básicas:
 
-- **Fomentan el cambio**
+- **Fomentan el cambio**  
 Las pruebas unitarias facilitan que el programador cambie el código para mejorar su estructura (lo que se ha dado en llamar refactorización), puesto que permiten hacer pruebas sobre los cambios y así asegurarse de que los nuevos cambios no han introducido errores.
-- **Simplifica la integración**
+- **Simplifica la integración**  
 Puesto que permiten llegar a la fase de integración con un grado alto de seguridad de que el código está funcionando correctamente. De esta manera se facilitan las pruebas de integración.
-- **Documenta el código**
+- **Documenta el código**  
 Las propias pruebas son documentación del código, puesto que ahí se puede ver cómo utilizarlo.
-- **Separación de la interfaz y la implementación**
+- **Separación de la interfaz y la implementación**  
 Dado que la única interacción entre los casos de prueba y las unidades bajo prueba son las interfaces de estas últimas, se puede cambiar cualquiera de los dos sin afectar al otro, a veces usando objetos maquetados que habilitan de forma aislada (unitaria) el comportamiento de objetos complejos.
-- **Los errores están más acotados y son más fáciles de localizar**
+- **Los errores están más acotados y son más fáciles de localizar**  
 Dado que tenemos pruebas unitarias que pueden desenmascararlos.
