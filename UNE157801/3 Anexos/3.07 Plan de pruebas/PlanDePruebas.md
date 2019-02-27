@@ -1,0 +1,3 @@
+
+# Plan De Pruebas
+El plan de prueba describe el ámbito del esfuerzo de prueba general y proporciona un registro del proceso de planificación de prueba. Puede configurarse el plan de pruebas para que se ajuste a las necesidades del equipo. Normalmente, un plan de pruebas identifica los requisitos, riesgos, casos de prueba y entornos de prueba que hay que probar, los objetivos de negocio y calidad, las planificaciones de prueba y otros elementos. 
