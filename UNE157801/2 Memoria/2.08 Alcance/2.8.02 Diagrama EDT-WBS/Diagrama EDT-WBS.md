@@ -1,10 +1,10 @@
 # Estructura de descomposición del trabajo (EDT)
 
 ## Índice
-* [Qué es un EDT](#EDT)
-    * [Ejemplo](#Ejemplo1)
+* [Qué es un EDT](#Qué_es_un_EDT)
+    * [Ejemplo](#Ejemplo)
 * [Elaboración](#Elaboración)
-    * [Descomposición](#Desc)
+    * [Descomposición](#Descomposición)
 * [Resumen](#Resumen)
 * [Referencias](#Referencias)
 
