@@ -1,6 +1,6 @@
 ## Proyecto de Ejemplo ##
 
-https://github.com/cs-ehu/Ejemplo
+[https://github.com/cs-ehu/Ejemplo](Ejemplo)
 
 Proyecto de prueba para Git.
 
