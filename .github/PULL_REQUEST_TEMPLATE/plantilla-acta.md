@@ -1,12 +1,3 @@
----
-name: Plantilla Acta
-about: Crear revisión para un acta de reunión de grupo
-title: 'Acta: dd/MM/yyyy'
-labels: acta
-assignees: ''
-
----
-
 **Modelo Acta:**  
 [ModeloActa.md][ModeloActa]
 
