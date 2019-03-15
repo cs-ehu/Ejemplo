@@ -1,10 +1,15 @@
 # Acta Reunión Equipo CS-19
 
 - Fecha: MM.dd
+
 - Lugar: FISS (Aula 1.2)
+
 - Asistentes: Personas
+
 - Ausentes: Personas
+
 - Coordina: Personas
+
 - Registra: Personas
 
 ## Orden del día
