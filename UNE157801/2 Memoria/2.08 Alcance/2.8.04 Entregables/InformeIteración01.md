@@ -1,4 +1,4 @@
-# InformeIteracion01
+# InformeIteración01
 
 ## Índice
 * [Introducción](#Introducción)
