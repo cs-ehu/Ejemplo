@@ -4,12 +4,22 @@
 Una parte importante de un desarrollo es la decisión de la organización de los ficheros que lo componen y la gerarquía de carpetas que seguirán.  
 La jerarquía de las carpetas puede variar dependiento del lenguaje, y del tipo de proyecto.  
 
-Algo recomendable, es tener un `README` con una descripción del proyecto e incluir información útil, como por ejemplo información de contacto con el equipo/empresa que desarrolla la aplicación.  
-Si no se usase ninguna herramienta para gestionar las dependencias de un proyecto, este sería el documento adecuado para listarlas, junto con su versión y un link a la página oficial de la librería.
+## Archivo README
 
-El archivo con la licencia debería también estar presente dentro del proyecto, al menos debería referenciarse en el `README`. Es importante que se defina una licencia, de esta forma se deja de forma clara que y que no se puede hacer con el código.
+Es recomendable tener un `README` con una descripción del proyecto e incluir información útil, como por ejemplo información de contacto con el equipo/empresa que desarrolla la aplicación.  
+Si no se usase ninguna herramienta para gestionar las dependencias de un proyecto, este sería el documento adecuado para listarlas, junto con su versión y un link a la página oficial de la librería.  
+GitHub, por ejemplo detecta automáticamente las dependencias listadas en algunos archivos específicos. Más información se puede encontrar en "[Listing the packages that a repository depends on](https://help.github.com/en/articles/listing-the-packages-that-a-repository-depends-on)".
 
-## Clasificación de las licencias de software
+Plantillas de ejemplo de archivos readme:
+
+- [README-template-eng.md](README-template-eng.md)
+- [README-template-esp.md](README-template-esp.md)
+
+## Licencia del proyecto
+
+El proyecto debería mencionar en alguna parte la licencia que usa. El archivo con la licencia debería estar presente dentro del proyecto, o al menos debería referenciarse en el `README`. Es importante que se defina una licencia, de esta forma se deja de forma clara que y que no se puede hacer con el código.
+
+A continuación se describen la clasificación de las licencias de software.
 
 ### Según los derechos que cada autor se reserva sobre su obra
 
