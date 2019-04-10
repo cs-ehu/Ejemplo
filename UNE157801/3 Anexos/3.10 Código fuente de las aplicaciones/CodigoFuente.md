@@ -12,8 +12,8 @@ GitHub, por ejemplo detecta automáticamente las dependencias listadas en alguno
 
 Plantillas de ejemplo de archivos readme:
 
-- [README-template-eng.md](README-template-eng.md)
-- [README-template-esp.md](README-template-esp.md)
+- [README-template-eng.md](README-template-eng.md) <small><kbd>Inglés</kbd></small>
+- [README-template-esp.md](README-template-esp.md) <small><kbd>Español</kbd></small>
 
 ## Licencia del proyecto
 
