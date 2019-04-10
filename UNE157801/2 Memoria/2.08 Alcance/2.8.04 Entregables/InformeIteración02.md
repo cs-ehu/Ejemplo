@@ -29,7 +29,7 @@ Este proyecto es la segunda iteración del informe recopilatorio de estas herram
 
 
 ### Alcance
-Este documento *“InformeIteración02”* esta ubicado en [GitHub]() y su objetivo consiste en explicar las principales características para el análisis y documentación de un proyecto en Java mediante las herramientas Maven y Doxygen,además de algunas otras.
+Este documento *“InformeIteración02”* esta ubicado en [GitHub](https://github.com/cs-ehu/Ejemplo/blob/develop/UNE157801/2%20Memoria/2.08%20Alcance/2.8.04%20Entregables/InformeIteraci%C3%B3n02.md) y su objetivo consiste en explicar las principales características para el análisis y documentación de un proyecto en Java mediante las herramientas Maven y Doxygen,además de algunas otras.
 
 Durante la realización, se generarán diferentes grupos para poder llevar a cabo los diferentes aspectos del proyecto con una carga de trabajo regulada respecto al tiempo entre los integrantes del grupo. 
 
