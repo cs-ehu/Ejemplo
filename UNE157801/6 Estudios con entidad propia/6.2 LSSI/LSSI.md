@@ -82,3 +82,6 @@ Con esta ley se quiere dar más confianza a los internautas para que usen intern
 [Wikipedia](https://es.wikipedia.org/wiki/Ley_de_Servicios_de_la_Sociedad_de_la_Informaci%C3%B3n)
 
 [LSSI-Resumen](http://www.legislacioninternet.com/lssi-ce/)
+
+
+> Calidad de Software - Veselin Solenkov - 10/4/2019
