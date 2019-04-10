@@ -8,7 +8,7 @@ Para la búsqueda de vulnerabilidades tenemos múltiples herramientas.
 Es una herramienta desarrollada en Java disponible para Windows, Linux y Mac OS.
 [Descarga](https://sourceforge.net/projects/grendel/)
 
-### [Vega] (https://subgraph.com/vega/documentation/index.en.html)
+### [Vega](https://subgraph.com/vega/documentation/index.en.html)
 Esta herramienta está escrita en Java y ofrece un entorno basado en GUI. Está disponible para Mac, Linux y Windows.
 
 Puede utilizarse para encontrar SQL injection, header injection, directory listing, shell injection, cross site scripting, file inclusion y otras vulnerabilidades de aplicaciones web. Esta herramienta también se puede ampliar usando una potente API escrita en JavaScript.
