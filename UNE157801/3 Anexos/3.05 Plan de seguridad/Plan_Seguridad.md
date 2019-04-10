@@ -23,8 +23,7 @@ De manera específica, ISO 27001 indica que un SGSI debe estar formado por los s
 + Política y objetivos de seguridad: documento de contenido genérico que establece el compromiso de la dirección y el enfoque de la organización en la gestión de la seguridad de la información.
 + Procedimientos y mecanismos de control que soportan al SGSI: aquellos procedimientos que regulan el propio funcionamiento del SGSI.
 + Enfoque de evaluación de riesgos: descripción de la metodología a emplear (cómo se realizará la evaluación de las amenazas, vulnerabilidades, probabilidades de ocurrencia e impactos en relación a los activos de información contenidos dentro del alcance seleccionado), desarrollo de criterios de aceptación de riesgo y fijación de niveles de riesgo aceptables 
-***En este punto es el que me centro el desarrollo
-profundizando en [la búsqueda de vulnerabilidades]()***
+***[Estudio sobre la búsqueda de vulnerabilidades](https://github.com/cs-ehu/Ejemplo/blob/develop/UNE157801/3%20Anexos/3.05%20Plan%20de%20seguridad/Busqueda_Vulnerabilidades.md)***
 + Informe de evaluación de riesgos: estudio resultante de aplicar la metodología de evaluación anteriormente mencionada a los activos de información de la organización.
 + Plan de tratamiento de riesgos: documento que identifica las acciones de la dirección, los recursos, las responsabilidades y las prioridades para gestionar los riesgos de seguridad de la información, en función de las conclusiones obtenidas de la evaluación de riesgos, de los objetivos de control identificados, de los recursos disponibles, etc.
 + Procedimientos documentados: todos los necesarios para asegurar la planificación, operación y control de los procesos de seguridad de la información, así como para la medida de la eficacia de los controles implantados.
