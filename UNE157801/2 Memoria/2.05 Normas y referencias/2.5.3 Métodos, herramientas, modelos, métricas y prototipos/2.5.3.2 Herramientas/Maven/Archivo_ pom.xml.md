@@ -43,7 +43,7 @@ Estos tres valores forman el nombre de artefacto totalmente calificado del proye
 
 **Etiquetas que describen a nuestro proyecto:**
 * ```<modelVersion>```  Esta etiqueta nos indica la versión de Maven en la cual estamos ejecutando nuestro proyecto. La versión 4.4.0 es la única soportada actualmente en Maven 2.
-* ```<packaging>``` Es el tipode artefacto que se genera en el proyecto. Por ejemplo jar, war... Si no se especifica en el POM, se usará el valor predeterminado “jar”.
+* ```<packaging>``` Es el tipo de artefacto que se genera en el proyecto. Por ejemplo jar, war... Si no se especifica en el POM, se usará el valor predeterminado “jar”.
 * ```<name>```  Definimos el nombre de nuestro proyecto.
 * ```<url>```  La URL, como el nombre, no es necesaria. Sin embargo, es un dato relevante para saber dónde está almacenado el proyecto.
 
@@ -205,10 +205,10 @@ Es usado por un POM padre para definir propiedades sobre dependencias de los hij
 La sección de administración de dependencias es un mecanismo para centralizar la información de dependencias. Cuando tiene un conjunto de proyectos que hereda un padre común, es posible poner toda la información sobre la dependencia en el POM común y tener referencias más simples a los artefactos en los POM secundarios. El mecanismo se ilustra mejor a través de algunos ejemplos. Teniendo en cuenta estos dos POM que extienden el mismo padre:
 Proyecto A
 ```
-<proyecto>
+<project>
   ...
-  <dependencias>
-    <dependencia>
+  <dependencies>
+    <dependency>
       <groupId> group-a </groupId>
       <artifactId> artifact-a </artifactId>
       <version> 1.0 </version>
@@ -219,46 +219,46 @@ Proyecto A
         </exclusion>
       </exclusiones>
     </dependency>
-    <dependencia>
+    <dependency>
       <groupId> group-a </groupId>
       <artifactId> artifact-b </artifactId>
       <version> 1.0 </version>
       <tipo> barra </type>
       <scope> runtime </scope>
     </dependency>
-  </dependencias>
-</proyecto>
+  </dependencies>
+</project>
 
 ```
 Proyecto B
 ```
-<proyecto>
+<project>
   ...
-  <dependencias>
-    <dependencia>
+  <dependencies>
+    <dependency>
       <groupId> group-c </groupId>
       <artifactId> artifact-b </artifactId>
       <version> 1.0 </version>
       <tipo> guerra </type>
       <scope> runtime </scope>
     </dependency>
-    <dependencia>
+    <dependency>
       <groupId> group-a </groupId>
       <artifactId> artifact-b </artifactId>
       <version> 1.0 </version>
       <tipo> barra </type>
       <scope> runtime </scope>
     </dependency>
-  </dependencias>
-</proyecto>
+  </dependencies>
+</project>
 ```
 Estos dos POM de ejemplo comparten una dependencia común y cada uno tiene una dependencia no trivial. Esta información se puede poner en el POM principal así:
 ```
-<proyecto>
+<project>
   ...
   <dependencyManagement>
-    <dependencias>
-      <dependencia>
+    <dependencies>
+      <dependency>
         <groupId> group-a </groupId>
         <artifactId> artifact-a </artifactId>
         <version> 1.0 </version>
@@ -272,7 +272,7 @@ Estos dos POM de ejemplo comparten una dependencia común y cada uno tiene una d
  
       </dependency>
  
-      <dependencia>
+      <dependency>
         <groupId> group-c </groupId>
         <artifactId> artifact-b </artifactId>
         <version> 1.0 </version>
@@ -280,55 +280,55 @@ Estos dos POM de ejemplo comparten una dependencia común y cada uno tiene una d
         <scope> runtime </scope>
       </dependency>
  
-      <dependencia>
+      <dependency>
         <groupId> group-a </groupId>
         <artifactId> artifact-b </artifactId>
         <version> 1.0 </version>
         <tipo> barra </type>
         <scope> runtime </scope>
       </dependency>
-    </dependencias>
+    </dependencies>
   </dependencyManagement>
-</proyecto>
+</project>
 ```
 Y entonces los dos poms hijos se volverían mucho más simples:
 ```
-<proyecto>
+<project>
   ...
-  <dependencias>
-    <dependencia>
+  <dependencies>
+    <dependency>
       <groupId> group-a </groupId>
       <artifactId> artifact-a </artifactId>
     </dependency>
  
-    <dependencia>
+    <dependency>
       <groupId> group-a </groupId>
       <artifactId> artifact-b </artifactId>
       <! - Esto no es una dependencia jar, por lo que debemos especificar el tipo. ->
       <tipo> barra </type>
     </dependency>
-  </dependencias>
-</proyecto>
+  </dependencies>
+</project>
 ```
 ```
-<proyecto>
+<project>
   ...
-  <dependencias>
-    <dependencia>
+  <dependencies>
+    <dependency>
       <groupId> group-c </groupId>
       <artifactId> artifact-b </artifactId>
       <! - Esto no es una dependencia jar, por lo que debemos especificar el tipo. ->
       <tipo> guerra </type>
     </dependency>
  
-    <dependencia>
+    <dependency>
       <groupId> group-a </groupId>
       <artifactId> artifact-b </artifactId>
       <! - Esto no es una dependencia jar, por lo que debemos especificar el tipo. ->
       <tipo> barra </type>
     </dependency>
-  </dependencias>
-</proyecto>
+  </dependencies>
+</project>
 ```
 
 
