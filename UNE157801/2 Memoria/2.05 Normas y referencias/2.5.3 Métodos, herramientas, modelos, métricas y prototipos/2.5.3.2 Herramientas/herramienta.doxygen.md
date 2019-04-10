@@ -9,13 +9,11 @@
 
 | ID | Descripción                                | Referencia                   | Tiempo  |
 |----| ------------------------------------------ | ---------------------------- | ------- |
-| 1  | Página oficial                             | [Introducción][enlace1]      | 0:30:00 |
-| 2  | Primeros pasos                             | [Tutorial][enlace2]          | 1:30:00 |
-| 3  | Descarga                                   | [Descarga][enlace3]          | 0:30:00 |
-| 4  | Instalación y uso                          | [Guia][enlace4]              | 0:45:00 |
+| 1  | Página oficial                             | [Introducción][enlace1]      | 1:30:00 |
+| 2  | Descarga                                   | [Descarga][enlace3]          | 0:30:00 |
+| 3  | Instalación y uso                          | [Guia][enlace4]              | 0:45:00 |
 
 [enlace1]: http://www.doxygen.nl/
-[enlace2]: http://www.doxygen.nl/manual/starting.html
 [enlace3]: http://www.doxygen.nl/download.html
 [enlace4]: https://drive.google.com/open?id=1rRANm6V-7mH3jVwsUqV1A4jhAsj4EjSi
 
