@@ -24,6 +24,8 @@ PMD es más útil cuando se integra en su proceso de construcción . Luego puede
 * Como una tarea de Gradle
 * Desde linea de comandos
 * CPD , el detector de copiar y pegar , también se distribuye con PMD. También puede usarlo de varias maneras, que se documentan aquí .
+
+![](http://3.bp.blogspot.com/-N4XBalY_iVs/VA4oguuwOaI/AAAAAAAAASc/gwJO-VIntOU/s1600/Captura.JPG)
   
 ### PMD y CPD (Copy and Paste Detection)
 
