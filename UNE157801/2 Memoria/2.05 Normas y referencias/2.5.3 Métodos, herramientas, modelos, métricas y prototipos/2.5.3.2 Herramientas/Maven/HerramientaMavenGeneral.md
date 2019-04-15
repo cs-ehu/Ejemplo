@@ -6,13 +6,11 @@ Herramiento Maven
 
 ### Descripción
 Maven es una herramienta de software para la gestión y construcción, sobre todo, de proyectos Java. Tiene un modelo de configuración simple, basado en XML.
-Maven utliza un Project Object Model (POM) para describir el proyecto, sus dependencias con otros módulos y componentes externos, y el orden de construcción de los elementos. Una característica clave de Maven es que está listo para usar en la red. 
+Maven utiliza un Project Object Model (POM) para describir el proyecto, sus dependencias con otros módulos y componentes externos, y el orden de construcción de los elementos. Una característica clave de Maven es que está listo para usar en la red. 
 Maven está construido usando una arquitectura basada en plugins que permite que utilice cualquier aplicación controlable a través de la entrada estándar.
 
 ### Tareas
 Como vamos a tratar los subapartados de Maven, las tareas van dentro de cada subapartado. En esta parte no vamos a diferenciar entre opcionales y obligatorias.
-
-#### Obligatorias
 
 | ID      | Descripción | Referencia | Tiempo  |
 | ------- | ----------- | ---------- | ------- |
