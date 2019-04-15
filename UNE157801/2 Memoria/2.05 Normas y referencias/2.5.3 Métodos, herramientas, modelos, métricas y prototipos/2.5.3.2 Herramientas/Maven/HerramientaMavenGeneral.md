@@ -17,12 +17,12 @@ Como vamos a tratar los subapartados de Maven, las tareas van dentro de cada sub
 | ID      | Descripción | Referencia | Tiempo  |
 | ------- | ----------- | ---------- | ------- |
 | Tarea1  | Tutorial Introducción a Maven | [Link](https://drive.google.com/file/d/1Z0lPzZ52zrpgKGKDV-kQu0BdikULEc_3/view) | 03:00:00|
-| Tarea2  |  Utilidades I/0 |  [Link] (https://mvnrepository.com/open-source/io-utilities)  |  00:30:00 |
-| Tarea3  |  Introduccion Maven |  [Link] (https://books.sonatype.com/mvnex-book/reference/simple-project-sect-intro.html)  |  01:40:00 |
-| Tarea4  |  Maven: Sitio web |  [Link] (https://books.sonatype.com/mvnex-book/reference/web.html)  |  1:25:00 |
-| Tarea5  |  Customizando en Maven |  [Link] (https://books.sonatype.com/mvnex-book/reference/customizing.html) |  01:05:00 |
-| Tarea6  |  Maven Wikipedia |  [Link] (https://es.wikipedia.org/wiki/Maven)  |  00:30:00 |
-| Tarea7  |  Apache-Maven Wikipedia |  [Link] (https://en.wikipedia.org/wiki/Apache_Maven)  |  00:50:00 |
+| Tarea2  |  Utilidades I/0 |  [Link](https://mvnrepository.com/open-source/io-utilities)  |  00:30:00 |
+| Tarea3  |  Introduccion Maven |  [Link](https://books.sonatype.com/mvnex-book/reference/simple-project-sect-intro.html)  |  01:40:00 |
+| Tarea4  |  Maven: Sitio web |  [Link](https://books.sonatype.com/mvnex-book/reference/web.html)  |  1:25:00 |
+| Tarea5  |  Customizando en Maven |  [Link](https://books.sonatype.com/mvnex-book/reference/customizing.html) |  01:05:00 |
+| Tarea6  |  Maven Wikipedia |  [Link](https://es.wikipedia.org/wiki/Maven)  |  00:30:00 |
+| Tarea7  |  Apache-Maven Wikipedia |  [Link](https://en.wikipedia.org/wiki/Apache_Maven)  |  00:50:00 |
 
 
 ### Horas de aprendizaje
