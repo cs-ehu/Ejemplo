@@ -1,6 +1,3 @@
-:::info
-Plantilla herramienta
-:::
 
 ##  Generación de artefacto:
 
