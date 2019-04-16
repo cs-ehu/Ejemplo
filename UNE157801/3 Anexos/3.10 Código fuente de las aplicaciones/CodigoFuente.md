@@ -1,12 +1,12 @@
 
 # Código fuente de las aplicaciones
 
-Una parte importante de un desarrollo es la decisión de la organización de los ficheros que lo componen y la gerarquía de carpetas que seguirán.  
-La jerarquía de las carpetas puede variar dependiento del lenguaje, y del tipo de proyecto.  
+Una parte importante de un desarrollo es la decisión de la organización de los ficheros que lo componen y la jerarquía de carpetas que seguirán.  
+La jerarquía de las carpetas puede variar dependiento del lenguaje y del tipo de proyecto.  
 
 ## Archivo README
 
-Es recomendable tener un `README` con una descripción del proyecto e incluir información útil, como por ejemplo información de contacto con el equipo/empresa que desarrolla la aplicación.  
+Es recomendable tener un `README` con una descripción del proyecto e incluir información útil, como por ejemplo, información de contacto con el equipo/empresa que desarrolla la aplicación.  
 Si no se usase ninguna herramienta para gestionar las dependencias de un proyecto, este sería el documento adecuado para listarlas, junto con su versión y un link a la página oficial de la librería.  
 GitHub, por ejemplo detecta automáticamente las dependencias listadas en algunos archivos específicos. Más información se puede encontrar en "[Listing the packages that a repository depends on](https://help.github.com/en/articles/listing-the-packages-that-a-repository-depends-on)".
 
