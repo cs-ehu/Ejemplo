@@ -26,7 +26,7 @@ A su vez los requisitos de sistema pueden dividirse en:
  - no funcionales y 
  - de dominio.
  
-2. **Requisitos funcionales**: Especifican lo que debe hacer o los servicios que debe proporcionar el sistema. 
+2. **[Requisitos funcionales](https://github.com/cs-ehu/Ejemplo/blob/develop/UNE157801/2%20Memoria/2.07%20Requisitos%20iniciales/2.7.1%20Funcionales/requisitos_funcionales.md)**: Especifican lo que debe hacer o los servicios que debe proporcionar el sistema. 
 
 Por ejemplo, en un software de gestión de una biblioteca podrían ser requisitos funcionales dar de alta un cliente, alquilar un libro, devolver un libro, comprar un libro, etc. 
 
