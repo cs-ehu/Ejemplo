@@ -3,7 +3,7 @@
 ### Descripción
 Un paquete de trabajo es una descripción cuantitativa y cualitativa de una operación que va a llevarse a cabo en el proyecto, por ejemplo, el trabajo que se ha de realizar y el resultado que se desea obtener en una tarea claramente definida dentro del proyecto.
 
-Los paquetes de trabajo son los elementos finales de la ***Estructura de descomposición del trabajo(EDT)***
+Los paquetes de trabajo son los elementos finales de la **Estructura de descomposición del trabajo(EDT)**
 
 La **EDT** es una herramienta fundamental que consiste en la descomposición jerárquica, orientada al entregable, del trabajo a ser ejecutado por el equipo de proyecto, para cumplir con los objetivos de éste y crear los entregables requeridos, donde cada nivel descendente de la EDT representa una definición con un detalle incrementado del trabajo del proyecto.
 
