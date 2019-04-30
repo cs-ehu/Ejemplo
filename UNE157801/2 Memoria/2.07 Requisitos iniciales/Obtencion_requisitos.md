@@ -22,8 +22,9 @@ Algunos ejemplos de estas preguntas son: [Pressman , 2006]
 
 
 ## Referencia. 
-[Técnicas de Levantamiento de Requerimientos](https://monivela.wordpress.com/requerimientos/tecnicas-de-levantamiento-de-requerimientos/)
-[Técnicas para el levantamiento de
+[Técnicas de Obención de Requerimientos](https://monivela.wordpress.com/requerimientos/tecnicas-de-levantamiento-de-requerimientos/)
+
+[Técnicas para el Obtención de
 requerimientos en el desarrollo de un sistema de
 información
 ](http://itcelaya.edu.mx/ojs/index.php/pistas/article/viewFile/298/288)
