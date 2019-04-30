@@ -1,4 +1,4 @@
-# Técnicas de levantamiento de requerimientos de software. 
+# Técnicas de obtención de requerimientos de software. 
 
 Una etapa fundamental en proyectos de ingeniería de software, es la identificación y documentación de los requerimientos del futuro sistema al comienzo del proyecto, pues en numerosas ocasiones se ha demostrado que es cuando pueden prevenirse errores que puedan significar el fracaso del proyecto.
 
