@@ -27,14 +27,14 @@ Guido Van Rossum lo crea a principios de los 90.
 
 ID      | Descripción | Referencia | Tiempo  |
 --------| ----------- | ---------- | ------- |
-1  | Tutorial sintaxis básica Python  videos 1-59 y 66-78     | [Enlace](https://www.youtube.com/watch?v=G2FCfQj-9ig) | 23:00:00|
+1  | Tutorial sintaxis básica Python  videos 1-58 y 66-78     | [Enlace](https://www.youtube.com/watch?v=G2FCfQj-9ig) | 23:00:00|
 
 
 #### Opcionales
 
 ID      | Descripción | Referencia | Tiempo  |
 --------| ----------- | ---------- | ------- |
-1  | Tutorial práctica guiada Python   | [Enlace](https://www.youtube.com/watch?v=E0OqddzjFUY&list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS&index=59) | 02:20:00|
+1  | Tutorial práctica guiada Python  videos 59-65 | [Enlace](https://www.youtube.com/watch?v=E0OqddzjFUY&list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS&index=59) | 02:20:00|
 
 El entorno de desarrollo que se usa en el tutorial propuesto es sublime y se explica cómo usar tanto la sintaxis de Python en el mismo como la consola.
 
