@@ -49,7 +49,7 @@ Además, el tiempo de implementar lo seguido en el tutorial podría suponer de 3
  
 
 ### Desventajas
-1. Al principio puede dar problemas la indentación hasta que se coje experiencia.
+1. Al principio puede dar problemas la indentación hasta que se coge experiencia.
 
 
 ### Conclusiones
