@@ -9,9 +9,9 @@
 * [Referencias](#Referencias)
 
 ## Qué es un EDT 
- a estructura de desglose de trabajo (**EDT**) o Work Breakdown Structure (WBS), es una herramienta que se utiliza para describir el alcance de un proyecto según sus entregables. Los cuales dividiremos en componentes lo suficientemente pequeños y manejables que nos permita planificar de manera fácil el proyecto. Estos componentes del último nivel de descomposición se denominan Paquetes de Trabajo. Los cuales podrán programarse, supervisarse, controlarse, estimar sus costes y asignar un único responsable de su ejecución.
+Una estructura de desglose de trabajo (**EDT**) o Work Breakdown Structure (WBS), es una herramienta que se utiliza para describir el alcance de un proyecto según sus entregables. Los cuales dividiremos en componentes lo suficientemente pequeños y manejables que nos permita planificar de manera fácil el proyecto. Estos componentes del último nivel de descomposición se denominan Paquetes de Trabajo, que podrán programarse, supervisarse, controlarse, estimar sus costes y asignar un único responsable de su ejecución.
 
-Se trata de un elemento organizativo jerarquizado que representa el proyecto al completo. Así mismo, se utiliza como base para realizar la planificación del proyecto. Y sirve para determinar quién es el responsable de cada uno de los trabajos necesarios para alcanzar los objetivos. De manera que cada tarea o trabajo que se deba llevar a cabo, tiene que quedar representado en la EDT/WBS.
+Se trata de un elemento organizativo jerarquizado que representa el proyecto al completo. Así mismo, se utiliza como base para realizar la planificación del proyecto y sirve para determinar quién es el responsable de cada uno de los trabajos necesarios para alcanzar los objetivos. De manera que cada tarea o trabajo que se deba llevar a cabo, tiene que quedar representado en la EDT/WBS.
 ### Ejemplo de EDT
 ![Ejemplo](https://i0.wp.com/www.gladysgbegnedji.com/wp-content/uploads/2016/11/EDT.png?resize=768%2C430&ssl=1)
 
@@ -20,7 +20,7 @@ La EDT /WBS se elabora durante la fase de  planificación del proyecto. Inmediat
 
 ![Fase de planificación](https://i0.wp.com/www.gladysgbegnedji.com/wp-content/uploads/2016/11/Crear-la-EDT.png?w=567&ssl=1)
 
-Idealmente, su realización, será llevada a cabo por el equipo que lleve a cabo el desarrollo del proyecto. Si es preciso, en colaboración con el área funcional de planificación y control. Este equipo deberá buscar un equilibrio entre los niveles de planificación. Ya que por un lado, una descomposición excesiva puede originar un esfuerzo de gestión no productivo, un uso ineficiente de recursos y una menor eficiencia en la realización del trabajo. Y por otro lado, a medida que descomponemos el trabajo con más detalle, se mejoran las capacidades de planificación, dirigir y controlar el trabajo
+Idealmente, su realización será llevada a cabo por el equipo que estñe encargado del desarrollo del proyecto. Si es preciso, en colaboración con el área funcional de planificación y control. Este equipo deberá buscar un equilibrio entre los niveles de planificación. Ya que por un lado, una descomposición excesiva puede originar un esfuerzo de gestión no productivo, un uso ineficiente de recursos y una menor eficiencia en la realización del trabajo. Y por otro lado, a medida que descomponemos el trabajo con más detalle, se mejoran las capacidades de planificación, dirigir y controlar el trabajo.
 
 ### Descomposición
 
