@@ -5,6 +5,7 @@
 * [Gestión del riesgo](#Gestión-del-riesgo)
 * [Características de la evaluación de riesgos](#Características-de-la-evaluación-de-riesgos)
 * [Ejemplos](#Ejemplos)
+* [ISO 31000:2009](#ISO-31000:2009)
 * [Bibliografía](#Bibliografía)
 ## Descripción
 
@@ -45,7 +46,18 @@ Unos ejemplos de un análisis de riesgos serían los siguientes:
 * Falta de material para realizar el trabajo
 * En los trabajos en grupo, la descordinación de horarios del personal
 * La actitud de los compañeros de trabajo
+
+## ISO 31000:2009
+
+### Herramienta para evaluar la gestión de riesgos. 
+Se trata de una norma global que proporciona principios y directrices genéricas para la implantación de un sistema de gestión compatible con los estándares de gestión de riesgos de cualquier sector.
+Puede utilizarse por cualquier empresa pública, privada o social, asociación, grupo o individuo. Por tanto, no es
+específica de una industria o sector concreto.
+
+
 ## Bibliografía
 [Análisis de riesgos](https://es.wikipedia.org/wiki/An%C3%A1lisis_de_riesgo)
 
 [Evaluación de riesgos](http://riesgoslaborales.feteugt-sma.es/portal-preventivo/conceptos-generales-de-la-prl/2-evaluacion-de-riesgos/)
+
+[ISO 31000:2009](http://gestion-calidad.com/wp-content/uploads/2016/09/iso_31000_2009_gestion_de_riesgos.pdf)
