@@ -26,8 +26,6 @@ A su vez los requisitos de sistema pueden dividirse en:
  - no funcionales y 
  - de dominio.
  
-2. **Requisitos funcionales**: 
-Especifican lo que debe hacer o los servicios que debe proporcionar el sistema. 
 
 Aquellos que describen cualquier actividad que este deba realizar, el comportamiento o función particular de un sistema o software. 
 
