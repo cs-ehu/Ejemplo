@@ -17,7 +17,7 @@ Entender las necesidades exactas de los usuarios y traducir éstas a funciones y
 >Son frases en lenguaje natural o descripciones gráficas (diagramas) 
 de los servicios que se espera que ofrezca el sistema y de sus restricciones.
 
-1. Requisitos de sistema: 
+2. Requisitos de sistema: 
 >Una descripción más detallada de los servicios exactos que se proporcionarán y sus restricciones. 
 
 Estos requisitos sirven como contrato con el cliente. 
@@ -26,12 +26,12 @@ A su vez los requisitos de sistema pueden dividirse en:
  - no funcionales y 
  - de dominio.
  
-2. **Requisitos funcionales**: 
-Especifican lo que debe hacer o los servicios que debe proporcionar el sistema. 
+3. **Requisitos funcionales**: Especifican lo que debe hacer o los servicios que debe proporcionar el sistema. 
 
+Por ejemplo, en un software de gestión de una biblioteca podrían ser requisitos funcionales dar de alta un cliente, alquilar un libro, devolver un libro, comprar un libro, etc. 
+
+Los requisitos funcionales deben describir también cómo responderá el sistema ante estas distintas entradas, y su comportamiento frente a situaciones particulares.
 Aquellos que describen cualquier actividad que este deba realizar, el comportamiento o función particular de un sistema o software. 
-
-
 Incluye funciones desempeñadas por pantallas específicas, descripciones de los flujos de trabajo a ser desempeñados por el sistema y otros requerimientos de negocio, cumplimiento, seguridad u otra índole. 
 
 Deben redactarse de tal forma que el lector pueda entender el funcionamiento del sistema sin tener conocimentos. Estas se obtinen mediante técnicas de levantamiento de requerimientos de software. 
@@ -72,11 +72,11 @@ Por ejemplo, en un software de gestión de una biblioteca podrían ser requisito
 
 Los requisitos funcionales deben describir también cómo responderá el sistema ante estas distintas entradas, y su comportamiento frente a situaciones particulares.
 
-3. **Requisitos no funcionales**: Son restricciones de los servicios del sistema o funciones que ofrece. 
+4. **Requisitos no funcionales**: Son restricciones de los servicios del sistema o funciones que ofrece. 
 
 Por ejemplo, en un software de gestión de compras de una tienda podrían ser requisitos no funcionales un tpv para pagar con tarjeta, un PC con memoria y espacio en disco para almacenar la base de datos de ventas, que sea capaz de atender a la vez a varios clientes, que no tarde más de X tiempo en gestionar una venta, etc.
 
-3. **Requisitos de dominio**: Estos requisitos reflejan características del dominio de la aplicación. 
+5. **Requisitos de dominio**: Estos requisitos reflejan características del dominio de la aplicación. 
 
 Por ejemplo, la forma en la que se comunicarán distintas partes de la aplicación, el tipo de datos con los que trabajará, etc.
 

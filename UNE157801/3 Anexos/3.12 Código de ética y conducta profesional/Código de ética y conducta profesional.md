@@ -1,7 +1,7 @@
-# Código de ética y conducta profesional
+# Código de ética y conducta profesional 
 ## Introducción
 Para la realización de un proyecto informático en equipo, es recomendable (por no decir indispensable) marcar una serie de pautas y conductas para lograr un buen ambiente de equipo de proyecto que ayudará a la correcta realización del proyecto en común.
-El PMI recoge su propio código de ética y conducta profesional, la cual impone como necesaria para cualquier equipo inmerso en un proyecto en común. Como la norma UNE157801 normaliza la creación de proyectos de sistemas de información y éstos , en su gran mayoría, se realizan en equipo, se hace necesaria su integración en la documentación del proyecto. También se adjunta al proyecto el documento del PMI que recoje su código de ética.
+El PMI (Project Management Institute) recoge su propio código de ética y conducta profesional, la cual impone como necesaria para cualquier equipo inmerso en un proyecto en común. Como la norma UNE157801 normaliza la creación de proyectos de sistemas de información y éstos , en su gran mayoría, se realizan en equipo, se hace necesaria su integración en la documentación del proyecto. También se adjunta al proyecto el documento del PMI que recoje su código de ética.
 
 Este documento se basa en el código de coducta del PMI y está formado por en las siguientes partes:
 
