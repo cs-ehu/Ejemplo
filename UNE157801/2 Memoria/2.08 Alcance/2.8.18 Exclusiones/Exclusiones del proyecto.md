@@ -20,7 +20,7 @@ los siguientes puntos:
 Como se puede ver, este lista ciertas características del proyecto que, aunque en otro contexto podrían incluirse, no se van a realizar, por diversas razones.
 
 Algunos de los puntos que se suelen tratar son los siguientes:
-1. **Características del producto que se excluyen:** Dependiendo del proyecto, puede variar el tipo de carácteristicas. En un proyecto de Ingeniería del Software se podría referir a las diferentes funcionalidades que no se van a añadir, aunque sean dependencias de otras que sí.
+1. **Características del producto que se excluyen:** Dependiendo del proyecto, puede variar el tipo de características. En un proyecto de Ingeniería del Software se podría referir a las diferentes funcionalidades que no se van a añadir, aunque sean dependencias de otras que sí.
 2. **Tecnologías que se no se van a utilizar:** Si ciertas tecnologías están fuera del alcance por tener licencias muy caras o por requerir un tiempo de aprendizaje demasiado largo, irían listadas en este apartado.
 3. **Traducciones:** Por el coste que suele suponer dentro de la elaboración de un proyecto, la exclusión de traducciones a ciertos idiomas suele ser un elemento muy común de este apartado. No deberían listarse todos los idiomas que no se vayan a incluir, sino los que podría tener sentido incluir (por la situación geográfica, por ejemplo) pero no van a implementarse.
 ## Conclusión
