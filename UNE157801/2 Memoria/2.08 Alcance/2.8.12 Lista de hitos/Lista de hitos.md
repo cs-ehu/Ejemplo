@@ -31,6 +31,7 @@ A la hora de la realización de este documento, debemos identificar unas super t
 ## Seguimiento y control basado en la Lista de hitos
 Podemos llevar un perfecto seguimiento del proyecto si creamos una vista de Gantt y representamos todos los hitos en el tiempo de realización del proyecto como en la siguiente imagen:
 ![](https://i.imgur.com/88ZXmgz.png)
+
 En ella se visualizan mediante los rombos rojos todos los hitos de las tareas, y la barra azul representa el tiempo de realización planificado (empieza y acaba a la vez que la barra).
 ### Bibliografía
 + [GroupCamp](https://www.groupcamp.es/h/gestion-proyectos/hitos-planificacion-proyecto#t4039)
