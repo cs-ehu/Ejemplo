@@ -32,6 +32,9 @@ Aspectos a tener en cuenta en el registro son:
   Ver la información de las partes interesadas en su conjunto y no en un registro de datos de las partes interesadas.
   
   - Mapa de grupos de interés que muestra una matriz de grupos de interés y áreas de interés. Sirve para ver agrupación común de las partes interesadas y el interés.
+  
   ![Mapa de grupos de interés](https://raw.githubusercontent.com/cs-ehu/img/master/gruposInteres.png)
+  
   - Matriz de interés sobre una matriz que tiene escalas de interés e influencia. Sirve para identificar de una forma rápida a los interesados para saber como se deben gestionar las comunicaciones. 
+  
   ![Matriz de interés](https://raw.githubusercontent.com/cs-ehu/img/master/matrizInvolucrados.jpg)
