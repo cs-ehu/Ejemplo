@@ -5,7 +5,7 @@
 Un Maven Artifact no es ni más ni menos que un bloque de código reutilizable. Muchas veces se confunde con un jar (java archive)  o librería, pero la realidad es que un jar es un bloque de código reutilizable pero ya compilado, al contrario de un Maven artifact que está sin compilar.
 
 Podríamos decir que un “arquetipo” para Maven es una plantilla. Es decir, gracias a un arquetipo Maven es capaz de generar una estructura de directorios y ficheros.
-Con los arquetipos se acabo “el miedo al folio en blanco” a la hora de empezar un proyecto, ya que basta con decirle a Maven que tipo de proyecto queremos y nos creará la estructura base.
+Con los arquetipos se acabó “el miedo al folio en blanco” a la hora de empezar un proyecto, ya que basta con decirle a Maven qué tipo de proyecto queremos y nos creará la estructura base.
 ![](https://i.imgur.com/W9kHuHg.png)
 
 ### Proceso de generación de artefacto:
@@ -57,7 +57,7 @@ La ejecucíon del método mvn install también ejecuta las anteriores sentencias
 | Tarea2         | Crear una aplicación web           | [Enlace](https://books.sonatype.com/mvnex-book/reference/web.html)           |02:00:00           |
 
 ### Horas de aprendizaje
-Aprender como generar nuestro artefacto no llega a ser difícil y con cualquier tutorial en internet puede llegar a hacerse de manera muy rápida y sencilla (entorno a los 30-60 minutos). Para llegar a comprender toda la lógica y teoría que acompaña a la creación de nuestro artefacto ya nos llevaría un aprendizaje más complejo en el que podría estar al rededor de las 10-13 horas.
+Aprender como generar nuestro artefacto no llega a ser difícil y con cualquier tutorial en internet puede llegar a hacerse de manera muy rápida y sencilla (entorno a los 30-60 minutos). Para llegar a comprender toda la lógica y teoría que acompaña a la creación de nuestro artefacto ya nos llevaría un aprendizaje más complejo en el que podría estar alrededor de las 10-13 horas.
 ### Ventajas
 * Todas las dependencias y plug-ins se "incluyen" en el propio artefacto
 * Si alguna de las dependencias/plug-ins ya estaba instalada, solo la compila, no la vuelve a descargar

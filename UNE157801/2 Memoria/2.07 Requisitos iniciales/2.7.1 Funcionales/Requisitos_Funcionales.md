@@ -26,10 +26,9 @@ A su vez los requisitos de sistema pueden dividirse en:
  - no funcionales y 
  - de dominio.
  
-2. **Requisitos funcionales** 
 
-Especifican lo que debe hacer o los servicios que debe proporcionar el sistema. 
 Aquellos que describen cualquier actividad que este deba realizar, el comportamiento o función particular de un sistema o software. 
+
 
 Incluye funciones desempeñadas por pantallas específicas, descripciones de los flujos de trabajo a ser desempeñados por el sistema y otros requerimientos de negocio, cumplimiento, seguridad u otra índole. 
 
@@ -67,7 +66,6 @@ Existen diferentes tipos de requerimientos funciionales:
 * El sistema controlará el acceso y lo permitirá solamente a usuarios autorizados. Los usuarios deben ingresar al sistema con un nombre de usuario y contraseña.
 * El sistema enviará una alerta al administrador del sistema cuando ocurra alguno de los siguientes eventos: Registro de nueva cuenta, ingreso al sistema por parte del cliente, 2 o más intentos fallidos en el ingreso de la contraseña de usuario y cambio de contraseña de usuario.
 * Los integrantes del grupo de usuarios de analistas pueden ingresar solicitudes pero no pueden aprobarlas o borrarlas.
-
 Por ejemplo, en un software de gestión de una biblioteca podrían ser requisitos funcionales dar de alta un cliente, alquilar un libro, devolver un libro, comprar un libro, etc. 
 
 Los requisitos funcionales deben describir también cómo responderá el sistema ante estas distintas entradas, y su comportamiento frente a situaciones particulares.
