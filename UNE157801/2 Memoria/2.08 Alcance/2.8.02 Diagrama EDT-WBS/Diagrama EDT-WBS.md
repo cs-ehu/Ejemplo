@@ -20,7 +20,7 @@ La EDT /WBS se elabora durante la fase de  planificación del proyecto. Inmediat
 
 ![Fase de planificación](https://i0.wp.com/www.gladysgbegnedji.com/wp-content/uploads/2016/11/Crear-la-EDT.png?w=567&ssl=1)
 
-Idealmente, su realización será llevada a cabo por el equipo que estñe encargado del desarrollo del proyecto. Si es preciso, en colaboración con el área funcional de planificación y control. Este equipo deberá buscar un equilibrio entre los niveles de planificación. Ya que por un lado, una descomposición excesiva puede originar un esfuerzo de gestión no productivo, un uso ineficiente de recursos y una menor eficiencia en la realización del trabajo. Y por otro lado, a medida que descomponemos el trabajo con más detalle, se mejoran las capacidades de planificación, dirigir y controlar el trabajo.
+Idealmente, su realización será llevada a cabo por el equipo que este encargado del desarrollo del proyecto. Si es preciso, en colaboración con el área funcional de planificación y control. Este equipo deberá buscar un equilibrio entre los niveles de planificación. Ya que por un lado, una descomposición excesiva puede originar un esfuerzo de gestión no productivo, un uso ineficiente de recursos y una menor eficiencia en la realización del trabajo. Y por otro lado, a medida que descomponemos el trabajo con más detalle, se mejoran las capacidades de planificación, dirigir y controlar el trabajo.
 
 ### Descomposición
 
