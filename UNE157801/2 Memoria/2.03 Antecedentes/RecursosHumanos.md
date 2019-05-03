@@ -1,6 +1,6 @@
 # Planificar la gestión de los recursos humanos
 
-pruebaaaaaaaaa
+pppppruebaaaaaaaaa
 
 Planificar la Gestión de los Recursos Humanos, es el proceso por el cual se identifican y documentan los roles y responsabilidades dentro del proyecto. Así como, las habilidades requeridas y las relaciones de comunicación. Durante este proceso se crea el Plan para la dirección del personal.
 
