@@ -2,7 +2,7 @@
 # Código fuente de las aplicaciones
 
 Una parte importante de un desarrollo es la decisión de la organización de los ficheros que lo componen y la jerarquía de carpetas que seguirán.  
-La jerarquía de las carpetas puede variar dependiento del lenguaje y del tipo de proyecto.  
+La jerarquía de las carpetas puede variar dependiendo del lenguaje y del tipo de proyecto.  
 
 ## Archivo README
 
