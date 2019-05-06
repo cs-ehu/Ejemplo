@@ -2,10 +2,21 @@
 # Firma electrónica
 
 
-*Referencia Wikpedia:* La firma electrónica es un concepto jurídico, equivalente electrónico al de la firma manuscrita, donde una persona acepta el contenido de un mensaje electrónico a través de cualquier medio electrónico válido.
+*Referencia Wikipedia:* La **firma electrónica** es un concepto jurídico, equivalente electrónico al de la firma manuscrita, donde una persona acepta el contenido de un mensaje electrónico a través de cualquier medio electrónico válido.
 
+*Ley 59/2003, de 19 de diciembre, de firma electrónica*: "La **firma electrónica** es el conjunto de datos en forma electrónica, consignados junto a otros o asociados con ellos, que pueden ser utilizados como medio de identificación del firmante."
 
-- Funciones:
+La **firma electrónica avanzada** es la firma electrónica que permite identificar al firmante y
+detectar cualquier cambio de los datos firmados, que está vinculada al firmante de
+manera única y a los datos a los que se refiere, y que ha sido creada por medios que el firmante puede
+mantener bajo su exclusivo control.
+
+A su vez, se considera **firma electrónica reconocida** la firma electrónica avanzada basada en un
+certificado reconocido y generada mediante un dispositivo seguro de creación de firma. La firma
+electrónica reconocida tendrá respecto de los datos consignados en forma electrónica el
+mismo valor que la firma manuscrita en relación con los consignados en papel.
+
+#### Funciones:
 1. Identificar al firmante de manera inequívoca
 2. Asegurar la integridad del documento firmado. Asegura que el documento firmado es exactamente el mismo que el original y que no ha sufrido alteración o manipulación.
 3. Asegurar el no repudio del documento firmado. Los datos que utiliza el firmante para realizar la firma son únicos y exclusivos y, por tanto, posteriormente, no puede decir que no ha firmado el documento.
@@ -27,12 +38,20 @@ El certificado electrónico o el DNI electrónico contiene unas claves criptogr�
 4. La aplicación crea otro documento electrónico que contiene ese resumen codificado. Este nuevo documento es la firma electrónica.
 
 #### ¿Qué utilidad tiene?
+Las utilidades se pueden dividir en tres categorías:
+1. **En relaciones con otras personas**: Permite garantizar la identidad de la
+persona que realiza una gestión, así como la integridad del contenido de los
+mensajes que envía. Es por esto que proporciona el máximo grado de confidencialidad y seguridad en Internet.
+2. **En relaciones con las Administraciones Públicas**: El Art. 16.2 de la Ley 59/2003 de Firma Electrónica indica que: ”*La
+Administración General del Estado empleará, en la medida de lo posible,
+sistemas que garanticen la compatibilidad de los instrumentos de firma
+electrónica incluidos en el documento nacional de identidad electrónico con
+los distintos dispositivos y productos de firma electrónica generalmente
+aceptados*”. Esto significa que la Administración General del Estado será uno de los principales proveedores de servicios relacionados con la firma electrónica, por lo que ya no será necesaria la presencia física para realizar ciertos trámites.
+3. **En relaciones con empresas**: Las empresas podrán desarrollar diferentes servicios basados en la
+identificación y firma electrónica, de forma que dinamicen la relación
+comercial con sus clientes.
 
-1. Identifica al firmante
-2. Integridad de los datos
-3. No repudio
-
-Está orientado para realizar operaciones por Internet que requiera la firma para poder validarlo.
 
 
 
