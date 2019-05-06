@@ -11,7 +11,7 @@ Este documento se basa en el código de coducta del PMI y está formado por en l
 Por responsabilidad se hace referencia a nuestra obligación de hacernos cargo de las decisiones que tomamos y de las que no tomamos y de las consecuencias que resultan.
 ### Normas ideales
 * Tomamos decisiones y medidas basándonos en lo que mejor conviene a los intereses de la sociedad, la seguridad pública y el medio ambiente.
-* Únicamente aceptamos aquellas asignaciones que se condicen con nuestros antecedentes, experiencia, habilidades y preparación profesional.
+* Únicamente aceptamos aquellas asignaciones que se corresponden con nuestros antecedentes, experiencia, habilidades y preparación profesional.
 * Hacemos lo que decimos que vamos a hacer.
 * Cuando cometemos errores u omisiones, nos responsabilizamos por ellos y los corregimos de inmediato.
 * Protegemos la información confidencial o de propiedad exclusiva que se nos haya confiado.
