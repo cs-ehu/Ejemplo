@@ -12,7 +12,7 @@ Usando mvn test se pueden ejecutar tests en Maven
 
 
 ---
-<<<<<<< HEAD
+
 Última versión de [maven-surefire-plugin][link]: 2018-12-20
 
 [link]: https://maven.apache.org/surefire/maven-surefire-plugin/
@@ -189,23 +189,9 @@ Resultados del terminal
     [INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 s - in es.ehu.cs19.TestNumMagico
     [INFO]
     [INFO] Results:
-<<<<<<< HEAD
-<<<<<<< HEAD
     [INFO]
     [INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0
     [INFO]
-=======
-    [INFO]
-    [INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0
-    [INFO]
->>>>>>> propuestas-pilar
-=======
-
-    [INFO]
-    [INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0
-    [INFO]
-
->>>>>>> 0d19d338573362151f40efe0fa1c3ad3623c5e5c
     [INFO] ------------------------------------------------------------------------
     [INFO] BUILD SUCCESS
     [INFO] ------------------------------------------------------------------------
@@ -227,21 +213,9 @@ Resultados del terminal
     [INFO] -------------------------------------------------------
     [INFO] Running es.ehu.cs19.TestMensaje
     [INFO] Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.007 s - in es.ehu.cs19.TestMensaje
-<<<<<<< HEAD
-<<<<<<< HEAD
     [INFO]
     [INFO] Results:
     [INFO]
-=======
-    [INFO]
-    [INFO] Results:
-    [INFO]
->>>>>>> propuestas-pilar
-=======
-    [INFO]
-    [INFO] Results:
-    [INFO]
->>>>>>> 0d19d338573362151f40efe0fa1c3ad3623c5e5c
     [INFO] Tests run: 2, Failures: 0, Errors: 0, Skipped: 0
     [INFO]
     [INFO] ------------------------------------------------------------------------
@@ -269,21 +243,9 @@ Resultados del terminal
     [INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.006 s - in es.ehu.cs19.TestMensaje
     [INFO]
     [INFO] Results:
-<<<<<<< HEAD
-<<<<<<< HEAD
     [INFO]
     [INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
     [INFO]
-=======
-    [INFO]
-    [INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
-    [INFO]
->>>>>>> propuestas-pilar
-=======
-    [INFO]
-    [INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
-    [INFO]
->>>>>>> 0d19d338573362151f40efe0fa1c3ad3623c5e5c
     [INFO] ------------------------------------------------------------------------
     [INFO] BUILD SUCCESS
     [INFO] ------------------------------------------------------------------------
