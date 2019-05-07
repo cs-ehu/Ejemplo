@@ -52,8 +52,16 @@ aceptados*”. Esto significa que la Administración General del Estado será un
 identificación y firma electrónica, de forma que dinamicen la relación
 comercial con sus clientes.
 
+#### ¿Cómo se puede firmar un documento?
+En una figura más arriba se puede ver el proceso a seguir para realizar la firma electrónica de un *input*. Esta imágen es útil para hacerse a la idea del modo de funcionamiento, pero no es relevante de cara a un usuario interesado en firmar un documento. Si lo que nos interesa es el resultado final y no tanto el proceso, habrá que buscar herramientas que nos ayuden a generar la firma.
 
+La cantidad de herramientas que existen es enorme. Por poder, se podría incluso implementar una herramienta propia. Sin embargo, en esta sección hablaremos sobre una de las herramientas de criptografía más importantes y potentes del momento: **OpenSSL**.
 
+Según Wikipedia, OpenSSL es "*un robusto paquete de herramientas de administración y bibliotecas relacionadas con la criptografía, que suministran funciones criptográficas a otros paquetes como OpenSSH y navegadores web (para acceso seguro a sitios HTTPS).
+
+Estas herramientas ayudan al sistema a implementar el Secure Sockets Layer (SSL), así como otros protocolos relacionados con la seguridad, como el Transport Layer Security (TLS). OpenSSL también permite crear certificados digitales que pueden aplicarse a un servidor, por ejemplo Apache.*"
+
+Además de eso....
 
 
 
