@@ -5,24 +5,24 @@
 
 ## Objetivos
 <div style="text-align: justify">
-<p>
 El objetivo, como su nombre bien indica, es dar una visión concisa y clara sobre el entorno de la organización y en particular por los sistemas que se vayan a ver afectados por el proyecto que se va a llevar a cabo.
+
+Se describe el punto de partida del proyecto mostrando los condicionantes de partida sobre los que debe ejecutarse el proyecto. El proyecto debe entenderse como una acción de cambio que permite conducir a la organización desde la situación actual hasta la situación final especificada en el proyecto. 
+
 
 Es importante explicar los condicionantes sobre los que se va a realizar el proyecto. Cualquier tipo de obstáculo o inconveniente que se sepa desde un principio que va a ser participe en el ciclo de vida del proyecto habrá que redactarlo en este apartado, listando las consecuencias que vaya a tener en el resultado o el coste final.
 
 Dependiendo del impacto que vaya a tener el proyecto en el sistema, es indispensable aclarar la diferencia entre la situación antes de comenzar el proyecto (llamada situación *alpha*) y el resultado esperado al terminarlo (llamada situación *beta*). Esto incluye puestos de trabajo a los que vaya a afectar, arquitectura del sistema, etc.
-</p>
-</div>
+
+
 
 ## Contenido
 
-<div style="text-align: justify">
-<p>
-Como parte del contenido del apartado se suelen incluir gráficos y esquemas de la arquitectura del sistema que se va a ver afectada. Hay que tener en cuenta que es necesario ser capaz de visualizar el estado de la organización y del mercado sin tener una comprensión amplia sobre ellos, remarcando la importancia.
-
-Para poder hablar sobre la situación inicial, se suele identificar a los interesados (*stakeholder*s) en el desarrollo del proyecto y explicar su situación *alpha* y los beneficios que se vayan a obtener al llegar a la situación *beta*.
+<div align="justify">
+Descripción de todos los elementos que condicionen o se vean afectados por el cambio propuesto en el proyecto: recursos humanos con su formación y experiencia, equipamiento hardware, licencias software, etc. Como parte del contenido del apartado se suelen incluir gráficos y esquemas de la arquitectura del sistema que se va a ver afectada. Hay que tener en cuenta que es necesario ser capaz de visualizar el estado de la organización y del mercado sin tener una comprensión amplia sobre ellos, remarcando la importancia.
 </p>
-</div>
+Para poder hablar sobre la situación inicial, se suele identificar a los interesados (*stakeholder*s) en el desarrollo del proyecto y explicar su situación *alpha* y los beneficios que se vayan a obtener al llegar a la situación *beta*.
+
 
 ## Ejemplo
 
