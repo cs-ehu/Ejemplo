@@ -8,7 +8,6 @@
 ## Descripción
 
 <div style="text-align:justify">
-# Presupuesto
 
 Tiene como misión determinar y justificar el coste económico para el cliente de la ejecución del proyecto y debe especificar claramente las bases con las que se confecciona el mismo.
 
