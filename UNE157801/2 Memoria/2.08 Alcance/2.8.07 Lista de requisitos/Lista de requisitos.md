@@ -22,16 +22,16 @@
 
 ## Clasificación de los requerimientos no funcionales
 
-    1. Requerimientos no funcionaes de producto     
+    1. Requerimientos no funcionales de producto     
         * Usabilidad
         * Eficiencia
         * Dependencia
         * Seguridad
-    2. Requerimientos no funcionaes organizacionales
+    2. Requerimientos no funcionales organizacionales
         *Entorno
         *Organizacionales
         *Desarrollo
-    3. Requerimientos no funcionaes externos 
+    3. Requerimientos no funcionales externos 
         *Regulatorios
         *Éticos
         *Legislativos
