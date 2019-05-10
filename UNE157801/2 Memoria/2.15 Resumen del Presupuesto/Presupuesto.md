@@ -8,9 +8,18 @@
 ## Descripción
 
 <div style="text-align:justify">
-La investigación implica una inversión económica , puesto que exige aseguramientos y recursos que se dedicarán, en la medida que se requieran, para alcanzar los objetivos plasmados en el protocolo.
 
-Esto se materializa a través de acciones basadas en un plan lógico, el cual se debe corresponder con los costos estimados del presupuesto.
+Tiene como misión determinar y justificar el coste económico para el cliente de la ejecución del proyecto y debe especificar claramente las bases con las que se confecciona el mismo.
+
+Cuando proceda deberá contener:
+
+* Un cuadro de precios de las unidades de medida correspondientes: componentes de hardware, elementos de software, horas persona de diferentes categorías,
+elementos auxiliares y otros.
+
+* Costes de unidades lógicas con entidad propia dentro del proyecto, con la descomposición correspondiente de componentes de hardware, elementos de software, horas persona, elementos auxiliares y otros.
+
+El presupuesto propiamente dicho debe contener la valoración económica global, descompuesta siguiendo la estructura de desglose de los elementos utilizada en la
+planificación y ejecución del proyecto.
 
 La confección de un presupuesto, cuyo diseño contempla 6 meses que dure la investigación, incluye dos tipos de Costes:
 

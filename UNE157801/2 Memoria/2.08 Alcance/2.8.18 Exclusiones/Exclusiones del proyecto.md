@@ -8,7 +8,7 @@ El apartado de *Exclusiones* lista todas las características, tanto funcionales
 
 Es importante no olvidarse de este punto a la hora de definir el alcance de un proyecto, para evitar confusiones con el cliente. Por esta misma razón, el cliente deberá estar de acuerdo con las exclusiones definidas, además de tener un acuerdo firmado en el que se ratifica.
 ## Ejemplos
-Este es un ejemplo de las exclusiones de un Trabajo de Fin de Grado realizado por Iñaki Latorre Ortega en 2017[^1]. en el desarrollo de dos apps móviles híbridas y dos servicios web enmarcados dentro del proyecto WeLive a nivel europeo.
+Este es un ejemplo de las exclusiones de un Trabajo de Fin de Grado realizado por Iñaki Latorre Ortega en 2017<sup>[1](#footnote1)</sup>. en el desarrollo de dos apps móviles híbridas y dos servicios web enmarcados dentro del proyecto WeLive a nivel europeo.
 
 >Inicialmente, junto con Aritz Rabadán de Eurohelp, se excluyeron del proyecto
 los siguientes puntos:
@@ -25,5 +25,7 @@ Algunos de los puntos que se suelen tratar son los siguientes:
 3. **Traducciones:** Por el coste que suele suponer dentro de la elaboración de un proyecto, la exclusión de traducciones a ciertos idiomas suele ser un elemento muy común de este apartado. No deberían listarse todos los idiomas que no se vayan a incluir, sino los que podría tener sentido incluir (por la situación geográfica, por ejemplo) pero no van a implementarse.
 ## Conclusión
 Debido a la cantidad de problemas que puede evitar tener un buen apartado de *Exclusiones*, es indispensable que en el alcance de cualquier proyecto se incluya un listado de las mismas, por muy corto que sea.
+Definir precisamente las exclusiones es imporante ya que sirve de futura guia para incluir posibles elementos o hacer mejoras partiendo de dichas exclusiones, además mediante ellas ayuda a entender cuál ha sido el enfoque del proyecto durante su desarollo.
 
-[^1]:Trabajo obtenido de [este enlace](https://addi.ehu.es/bitstream/handle/10810/21806/TFG_LatorreOrtega.pdf?sequence=3&isAllowed=y)
+
+<sup name="footnote1">1</sup>:Trabajo obtenido de [este enlace](https://addi.ehu.es/bitstream/handle/10810/21806/TFG_LatorreOrtega.pdf?sequence=3&isAllowed=y)
