@@ -35,7 +35,7 @@ Como autor del proyecto, estoy realizando de forma paralela un Trabajo de Fin de
 >La idea del proyecto surge por la necesidad agilizar el acceso a los datos de los clústeres del DIPC y hacerlo de manera más cómoda. Hasta la fecha, la única forma en la que un investigador podía acceder a los clústeres y consultar el estado de sus trabajos o de ponerse en contacto con el Centro de Cálculo era estando de forma física en su puesto de trabajo y accediendo a su equipo personal. El proyecto consiste en implementar una aplicación para smartphones que elimine esa restricción y permita a un investigador acceder a los servicios que les proporciona el DIPC desde cualquier parte.
 >Además, el propio Centro de Cálculo también tiene interés en el desarrollo de la aplicación, pues se pretende crear un apartado exclusivo para los administradores que les permita beneficiarse de la aplicación. Así, se pretende que ciertas tareas que se realizan desde los equipos de la empresa se redirijan completamente a la aplicación, como el proceso de crear nuevas cuentas de usuarios. 
 
-Hay que tener en cuenta que este ejemplo es un extracto de un proyecto que no está aún finalizado y que está pendiente de revisión. Probablemente no sea el mejor ejemplo de la descripción de la situacion actual de un proyecto, pero sirve como referencia para un futuro.
+Hay que tener en cuenta que este ejemplo es un extracto de un proyecto que no está aún finalizado y que está pendiente de revisión. Probablemente no sea el mejor ejemplo de la descripción de la situación actual de un proyecto, pero sirve como referencia para un futuro.
 </p>
 </div>
 
