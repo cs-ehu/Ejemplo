@@ -34,13 +34,13 @@ Los requisitos funcionales deben describir también cómo responderá el sistema
 Aquellos que describen cualquier actividad que este deba realizar, el comportamiento o función particular de un sistema o software. 
 Incluye funciones desempeñadas por pantallas específicas, descripciones de los flujos de trabajo a ser desempeñados por el sistema y otros requerimientos de negocio, cumplimiento, seguridad u otra índole. 
 
-Deben redactarse de tal forma que el lector pueda entender el funcionamiento del sistema sin tener conocimentos. Estas se obtinen mediante técnicas de levantamiento de requerimientos de software. 
+Deben redactarse de tal forma que el lector pueda entender el funcionamiento del sistema sin tener conocimiientos. Estas se obtienen mediante técnicas de levantamiento de requerimientos de software. 
 
 ### Cómo se describen y clasifican 
 
 Se suelen registrar en la **matriz de trazabilidad de requerimientos** y en la **especificación de requerimientos de software**, este último documenta las operaciones y actividades que el sistema debe poder desempeñar. 
 
-Existen diferentes tipos de requerimientos funciionales:  
+Existen diferentes tipos de requerimientos funcionales:  
 * Descripciones de los datos a ser ingresados en el sistema.
 * Descripciones de las operaciones a ser realizadas por cada pantalla.
 * Descripción de los flujos de trabajo realizados por el sistema.
@@ -67,7 +67,7 @@ Existen diferentes tipos de requerimientos funciionales:
 **Ejemplo requerimientos de seguridad**
 * El sistema controlará el acceso y lo permitirá solamente a usuarios autorizados. Los usuarios deben ingresar al sistema con un nombre de usuario y contraseña.
 * El sistema enviará una alerta al administrador del sistema cuando ocurra alguno de los siguientes eventos: Registro de nueva cuenta, ingreso al sistema por parte del cliente, 2 o más intentos fallidos en el ingreso de la contraseña de usuario y cambio de contraseña de usuario.
-* Los integrantes del grupo de usuarios de analistas pueden ingresar solicitudes pero no pueden aprobarlas o borrarlas.
+* Los integrantes del grupo de usuarios de analistas pueden ingresar solicitudes, pero no pueden aprobarlas o borrarlas.
 Por ejemplo, en un software de gestión de una biblioteca podrían ser requisitos funcionales dar de alta un cliente, alquilar un libro, devolver un libro, comprar un libro, etc. 
 
 Los requisitos funcionales deben describir también cómo responderá el sistema ante estas distintas entradas, y su comportamiento frente a situaciones particulares.
