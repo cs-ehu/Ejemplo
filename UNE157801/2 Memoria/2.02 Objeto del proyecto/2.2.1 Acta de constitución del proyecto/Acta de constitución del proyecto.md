@@ -60,6 +60,9 @@ En este caso el Gerente de proyecto colabora con el patrocinador, entrevistando 
 * https://es.slideshare.net/Widowmaker88/acta-de-constitucion-del-proyecto
 * https://prezi.com/tp8vnajfgj7b/acta-de-constitucion-del-proyecto/
 
+#### Vídeo de interes 
+[How to Write a Project Management Charter](https://www.youtube.com/watch?v=I4JsU42IO6g)
+
 ## Bibliografía
 [Acta de constitución del proyecto](http://gestion-de-proyectos.gedpro.com/home/objetos/acta-de-constitucion-del-proyecto)
 
@@ -68,3 +71,5 @@ En este caso el Gerente de proyecto colabora con el patrocinador, entrevistando 
 [Información general del acta](https://uv-mdap.com/blog/como-hacer-una-acta-de-constitucion/)
 
 [Descargar de una plantilla del acta](https://sites.google.com/site/oficinaproyectosinformatica/home/archivo/PMOInformatica%20Plantilla%20Acta%20de%20Proyecto.doc?attredirects=0&d=1)
+
+
