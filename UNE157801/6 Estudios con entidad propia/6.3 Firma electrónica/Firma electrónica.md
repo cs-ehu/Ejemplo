@@ -61,8 +61,17 @@ Según Wikipedia, OpenSSL es "*un robusto paquete de herramientas de administrac
 
 Estas herramientas ayudan al sistema a implementar el Secure Sockets Layer (SSL), así como otros protocolos relacionados con la seguridad, como el Transport Layer Security (TLS). OpenSSL también permite crear certificados digitales que pueden aplicarse a un servidor, por ejemplo Apache.*"
 
-Además de eso....
+Además de eso, OpenSSL ofrece herramientas como funciones hash criptográficas (las vamos a necesitar para firmar el documento) y generadores de claves (hay varios tipos diferentes, los que nos interesan en nuestro caso serían los pares de claves pública/privada).
 
+El proceso para firmar un documento mediante OpenSSL usando la línea de comandos es el siguiente:
+  1. Generar una clave privada: `openssl genrsa -des3 -out private.pem 2048` (Genera una clave privada en el archivo private.pem)
+  2. Generar una clave pública: `openssl rsa -in private.pem -outform PEM -pubout -out public.pem` (Extrae la clave pública de private.pem al fichero public.pem)
+  
+Suponiendo que el fichero que queremos firmar digitalmente es `data.txt`:
+  1. Generar un hash correspondiente al fichero `data.txt`: `openssl dgst -sha256 data.txt > hash.txt` (El hash se almacenara en el fichero hash.txt)
+  2. Generar una firma digital: `openssl rsautl -sign -inkey privatekey.pem -keyform PEM -in hash.txt > signature.txt` (Genera la firma en `signature.txt` del fichero `hash.txt`usando la clave `privatekey.pem`)
 
-
-
+Para verificar la firma:
+  * Verificar únicamente la firma: `openssl rsautl -verify -inkey publickey.pem -pubin -keyform PEM -in signature`
+  * Verificar firma y contenido del fichero: `openssl dgst -sha256 -verify publickey.pem -signature signature data.txt`
+  
