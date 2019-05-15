@@ -20,7 +20,7 @@ El concepto 'Code Smells' o como se conoce en castellano 'Hediondez del código'
 | ID      | Descripción | Referencia | Tiempo  |
 | ------- | ----------- | ---------- | ------- |
 | 1 | Lectura sobre tipos de 'Code Smells' y cómo solucionarlos       | [Información de página especializada][linkOB-1] | 03:00:00 |
-| 2 | Estandar de Java de Oracle        | [Convenio de  Oracle][linkOB-2] | 03:00:00 |
+| 2 | Estándar de Java de Oracle        | [Convenio de  Oracle][linkOB-2] | 03:00:00 |
 
 [linkOB-1]: https://sourcemaking.com/refactoring/smells
 [linkOB-2]: https://www.oracle.com/technetwork/java/codeconvtoc-136057.html
