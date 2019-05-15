@@ -1,32 +1,7 @@
-##### Requisitos Funcionales
-[Documentación](https://es.wikiversity.org/wiki/Ingenier%C3%ADa_de_requisitos_software)
+# Requisitos Funcionales
 
-#### Introducción 
-### Requisitos del sistema
-~~~
-Entender las necesidades exactas de los usuarios y traducir éstas a funciones y acciones que serán usadas en el desarrollo del sistema.
-~~~
-## Requisito
-1. Una condición o capacidad requerida por un usuario para resolver un problema o alcanzar un objetivo.
-2. Una condición o capacidad que debe cumplir o poseer un sistema o componente de sistema para satisfacer un contrato, estándar, especificación, o cualquier otro documento impuesto formalmente.
-3. Una representación documentada de una condición o capacidad de lo explicado en los puntos 1 o 2.
-
-### Los requisitos pueden dividirse en:
-
-1. Requisitos de usuario: 
->Son frases en lenguaje natural o descripciones gráficas (diagramas) 
-de los servicios que se espera que ofrezca el sistema y de sus restricciones.
-
-2. Requisitos de sistema: 
->Una descripción más detallada de los servicios exactos que se proporcionarán y sus restricciones. 
-
-Estos requisitos sirven como contrato con el cliente. 
-A su vez los requisitos de sistema pueden dividirse en:
- - requisitos funcionales, 
- - no funcionales y 
- - de dominio.
- 
-3. **Requisitos funcionales**: Especifican lo que debe hacer o los servicios que debe proporcionar el sistema. 
+### Introducción
+Los requisitos funcionales especifican lo que se debe hacer o los servicios que debe proporcionar el sistema. 
 
 Por ejemplo, en un software de gestión de una biblioteca podrían ser requisitos funcionales dar de alta un cliente, alquilar un libro, devolver un libro, comprar un libro, etc. 
 
@@ -36,8 +11,7 @@ Incluye funciones desempeñadas por pantallas específicas, descripciones de los
 
 Deben redactarse de tal forma que el lector pueda entender el funcionamiento del sistema sin tener conocimiientos. Estas se obtienen mediante técnicas de levantamiento de requerimientos de software. 
 
-### Cómo se describen y clasifican 
-
+### Descripción y clasificación
 Se suelen registrar en la **matriz de trazabilidad de requerimientos** y en la **especificación de requerimientos de software**, este último documenta las operaciones y actividades que el sistema debe poder desempeñar. 
 
 Existen diferentes tipos de requerimientos funcionales:  
@@ -48,8 +22,8 @@ Existen diferentes tipos de requerimientos funcionales:
 * Definición de quien puede ingresar datos en el sistema.
 * Como el sistema cumplirá los reglamentos y regulaciones de sector o generales que le sean aplicables.
 
+### Ejemplos 
 **Ejemplo requerimientos funcionales de proceso o área de negocio**
-
 * El sistema enviará un correo electrónico cuando se registre alguna de las siguientes transacciones: pedido de venta de cliente, despacho de mercancía al cliente, emisión de factura a cliente y registro de pago de cliente.
 * El software debe poder emitir los siguientes estados financieros: Balance general, Estado de ganancias y pérdidas, Estado de flujos de efectivo. Además, debe poder emitir un listado de mayor general y mayor analítico.
 
@@ -72,18 +46,9 @@ Por ejemplo, en un software de gestión de una biblioteca podrían ser requisito
 
 Los requisitos funcionales deben describir también cómo responderá el sistema ante estas distintas entradas, y su comportamiento frente a situaciones particulares.
 
-4. **Requisitos no funcionales**: Son restricciones de los servicios del sistema o funciones que ofrece. 
-
-Por ejemplo, en un software de gestión de compras de una tienda podrían ser requisitos no funcionales un tpv para pagar con tarjeta, un PC con memoria y espacio en disco para almacenar la base de datos de ventas, que sea capaz de atender a la vez a varios clientes, que no tarde más de X tiempo en gestionar una venta, etc.
-
-5. **Requisitos de dominio**: Estos requisitos reflejan características del dominio de la aplicación. 
-
-Por ejemplo, la forma en la que se comunicarán distintas partes de la aplicación, el tipo de datos con los que trabajará, etc.
-
 #### Ejemplo: Estudio de los requisitos funcionales del proyecto : WS_Lab2
 ~~~
-> Lo que debe hacer o los servicios que debe proporcionar el sistema. 
-
+Lo que debe hacer o los servicios que debe proporcionar el sistema. 
 Los requisitos funcionales deben describir cómo responderá el sistema ante estas distintas entradas, 
 y su comportamiento frente a situaciones particulares
 
@@ -101,3 +66,8 @@ Al usuario que se ha conectado se le comunica un historial de su juego ya que en
 
  > 3. Al administrador:
  Es quien crea las preguntas, las modifica y las borra.
+ 
+## Bibliografía
+[Requisitos de Software](http://www.kybele.etsii.urjc.es/docencia/IS_GII_M/2011-2012/Material/[IS-2010-11]6.%20RequisitosSoftware_CEC.pdf)
+
+[Documentación](https://es.wikiversity.org/wiki/Ingenier%C3%ADa_de_requisitos_software)
