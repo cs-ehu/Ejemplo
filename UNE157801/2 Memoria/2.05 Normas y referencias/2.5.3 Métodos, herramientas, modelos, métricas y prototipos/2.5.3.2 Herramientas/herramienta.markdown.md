@@ -28,6 +28,7 @@ Es un lenguaje de marcado ligero basado en un formato de texto plano, (o un mét
 | ID      | Descripción | Referencia | Tiempo  |
 | ------- | ----------- | ---------- | ------- |
 |  1  | Definicion de markdown y sintaxis       | [Tutorial interactivo](https://www.markdowntutorial.com/) | 00:40:00|
+|  2  | Una herramienta interesante de Markdown      | [Herramienta Markdown online](http://hackmd.io/) | 00:30:00|
 
 ### Horas de aprendizaje
     
