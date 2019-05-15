@@ -13,7 +13,7 @@
 
 ## Descripción
 
-PMD es un analizador de código fuente estático. Encuentra fallos de programación comunes como variables no utilizadas, bloques de captura vacíos, creación innecesaria de objetos, etc. Se ocupa principalmente de Java y Apex , pero admite otros seis idiomas .
+PMD es un analizador de código fuente estático. Encuentra fallos de programación comunes como variables no utilizadas, bloques de captura vacíos, creación innecesaria de objetos, etc. Se ocupa principalmente de Java y [Apex](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_intro_what_is_apex.htm) , pero admite otros seis idiomas .
 
 PMD presenta muchos controles integrados , que están documentados para cada idioma en nuestras referencias de Reglas . También admite una API extensa para escribir sus propias reglas , lo puede hacer en Java o como una consulta de XPath independiente.
 
@@ -25,7 +25,23 @@ PMD es más útil cuando se integra en su proceso de construcción . Luego puede
 * Desde linea de comandos
 * CPD , el detector de copiar y pegar , también se distribuye con PMD. También puede usarlo de varias maneras, que se documentan aquí .
 
-![](http://3.bp.blogspot.com/-N4XBalY_iVs/VA4oguuwOaI/AAAAAAAAASc/gwJO-VIntOU/s1600/Captura.JPG)
+---
+Maven PMD Plugin
+
+    <project>
+      ...
+      <build>
+        <plugins>
+          <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-pmd-plugin</artifactId>
+            <version>3.12.0</version>
+          </plugin>
+        </plugins>
+      </build>
+      ...
+    </project>
+---
   
 ### PMD y CPD (Copy and Paste Detection)
 
@@ -40,14 +56,14 @@ Para realizar estas pruebas tenemos el plugin de PMD, existente en Maven2 y ecli
 | ID      | Descripción | Referencia | Tiempo  |
 | ------- | ----------- | ---------- | ------- |
 | 1  |Uso de PMD en Maven| [Vídeo ejemplo](https://www.youtube.com/watch?v=bRFVukVIcao) | 00:15:00|
-| 2  |Como instalar PMD| [enlace](https://pmd.github.io/pmd-6.13.0/pmd_userdocs_installation.html) | 00:10:00|
+| 2  |Como instalar PMD| [Enlace](https://pmd.github.io/pmd-6.13.0/pmd_userdocs_installation.html) | 00:10:00|
 
 ### Opcionales
 
 | ID      | Descripción | Referencia | Tiempo  |
 | ------- | ----------- | ---------- | ------- |
-| 1  |Creación de reglas| [enlace](https://pmd.github.io/pmd-6.13.0/pmd_userdocs_making_rulesets.html) | 00:20:00|
-| 2  |Configurando reglas| [enlace](https://pmd.github.io/pmd-6.13.0/pmd_userdocs_configuring_rules.html) | 00:10:00|
+| 1  |Creación de reglas| [Enlace](https://pmd.github.io/pmd-6.13.0/pmd_userdocs_making_rulesets.html) | 00:20:00|
+| 2  |Configurando reglas| [Enlace](https://pmd.github.io/pmd-6.13.0/pmd_userdocs_configuring_rules.html) | 00:10:00|
 
 ## Horas de aprendizaje
 
@@ -66,7 +82,7 @@ Es una herramienta capaz de identificar los siguientes problemas:
 
 ## Desventajas
 
-No se ha encontrado ninguna desventaja respesto a dicha herramienta.
+No se ha encontrado ninguna desventaja respecto a dicha herramienta.
 
 ## Conclusiones
 
