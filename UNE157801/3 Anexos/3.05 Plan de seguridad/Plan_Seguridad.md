@@ -45,7 +45,7 @@ Para establecer y gestionar un Sistema de Gestión de la Seguridad de la Informa
 + Plan (planificar): es una fase de diseño del SGSI, realizando la evaluación de riesgos de seguridad de la información y la selección de controles adecuados. 
 + Do (hacer): es una fase que envuelve la implantación y operación de los controles. 
 + Check (verificar): es una fase que tiene como objetivo revisar (monitorizar) y evaluar el desempeño (eficiencia y eficacia) del SGSI. 
-+ Act (actuar): en esta fase ademas de mantener el SGSI tambien se realizan cambios cuando sea necesario para llevar de vuelta el SGSI a máximo rendimiento. 
++ Ajust (ajustar): a partir de los resultados conseguidos en la fase anterior se procede a recopilar lo aprendido y a ponerlo en marcha. También suelen aparecer recomendaciones y observaciones que suelen servir para volver al paso inicial de Planificar y así el círculo nunca dejará de fluir. 
 
 ## Conclusión
 Además de seguir estas consideraciones en los desarrollos de las aplicaciones, es muy importante prestar atención en los casos en que se utilicen componentes de terceros. En este sentido se recomienda disponer de un procedimiento documentado para la adquisición de componentes cuya evaluación se haya realizado conforme a normas europeas o internacionales (p.ej: cumple la [ISO/IEC 15408](https://www.iso.org/standard/50341.html), etc). Hay que tener en cuenta que la inclusión de un componente con vulnerabilidades en un sistema producirá probablemente un detrimento de la seguridad del mismo.
