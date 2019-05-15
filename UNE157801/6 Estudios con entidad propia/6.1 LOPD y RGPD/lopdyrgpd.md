@@ -19,12 +19,7 @@ LOPD y RGPD
 * [Enlaces de interés](#Enlaces-de-interés)
 
 ## Introducción
-
-¿Qué se entiende por las leyes de protección de datos? seguramente si has estado investigando en cuanto a marketing o estés entrando en ese mundo te será familiar ese concepto y no es para menos, ya que las leyes de protección de datos es algo que tiene que cumplir todo autónomo o empresa.
-
-Por leyes de protección de datos se entiende que son leyes que constan de establecer reglas y límites para la recolección, custodia y transferencia de datos de personas, principalmente en el medio digital. Su próposito principal es que toda información que se utilice o extraiga, tenga ligada unos derechos de uso y unas obligaciones para quién trata con ella.
-
-Pero ¿qué tipos de leyes de protección de datos hay? a continuación lo explicaremos.
+Constan de establecer reglas y límites para la recolección, custodia y transferencia de datos de personas, principalmente en el medio digital. Su próposito principal es que toda información que se utilice o extraiga, tenga ligada unos derechos de uso y unas obligaciones para quién trata con ella.
 
 ## Ley Orgánica de Protección de Datos (LOPD)
 
