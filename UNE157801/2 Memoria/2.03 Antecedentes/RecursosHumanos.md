@@ -18,7 +18,7 @@ A la hora de planificar las necesidades de recursos humanos, debería darse resp
 
 * ¿Qué medidas vamos a adoptar para proteger al equipo de influencias externas?
 
-## Entradas
+## Documentos y recursos de partida
 
 * Plan para la Dirección del Proyecto. Utiliza información del ciclo de vida del proyecto y sus fases. Plan de gestión de cambios y de la configuración, así como de las necesidades de comunicación.
 * Requisitos de recursos para cada actividad. Obtenidos del proceso Estimar los recursos de las actividades.
