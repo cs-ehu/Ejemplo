@@ -19,9 +19,9 @@ Calidad del Software.
 
 ## Introducción
 Un factor clave para asegurar el éxito de proyectos de cualquier índole, es gestionar la contribución de cada requerimiento de proyecto con el logro de los objetivos y realización de los beneficios que se han planteado. 
-En este documento se describirá la trazabilidad de requisitos así como la matriz de trazabilidad de requisitos y su importancia garantizar que los proyectos y organización estén alienados. 
+En este documento se describirá la trazabilidad de requisitos así como la matriz de trazabilidad de requisitos y su importancia garantizar que los proyectos y organización estén alineados. 
 
-## Trazabilidad-de-requisitos
+## Trazabilidad de requisitos
  >*Es la asociación de un requisito con otros requisitos y las diferentes instancias o artefactos con que se relaciona* 
  >
 
