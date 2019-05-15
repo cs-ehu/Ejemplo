@@ -22,7 +22,7 @@ LOPD y RGPD
 
 ¿Qué se entiende por las leyes de protección de datos? seguramente si has estado investigando en cuanto a marketing o estés entrando en ese mundo te será familiar ese concepto y no es para menos, ya que las leyes de protección de datos es algo que tiene que cumplir todo autónomo o empresa.
 
-Por leyes de protección de datos se entiende que son leyes que constan de establecer reglas y límites para la recolección, custodia y transferencia de datos de personas, principalmente en el medio digital. Su próposito principal es que toda información que se utilice o extraiga, tenga ligada unos derechos de uso y unas obligaciones para quién trata con ella.
+Por leyes de protección de datos se entiende que son leyes que constan de establecer reglas y límites para la recolección, custodia y transferencia de datos de personas, principalmente en el medio digital. Su propósito principal es que toda información que se utilice o extraiga, tenga ligada unos derechos de uso y unas obligaciones para quién trata con ella.
 
 Pero ¿qué tipos de leyes de protección de datos hay? a continuación lo explicaremos.
 
@@ -43,9 +43,9 @@ Con esto se estableció que aquellos interesados a los que se les solicite datos
 2. El carácter obligatorio o facultativo de la respuesta de las preguntas que se hagan.
 3. Las consecuencias de la obtención de los datos o la negativa a suministrarlos.
 4. La posibilidad de ejercitar los derechos de acceso, rectificación, cancelación y oposición.
-5. De la identidad y dirección del responsable de su tratamiendo o de su representante.
+5. De la identidad y dirección del responsable de su tratamiento o de su representante.
 
-Por otra parte, el tratamiento de datos de carácter personal que no hayan sido recabados directamente del interesado se permiten aunque es obligatorio informar debidamente como se comentó anteriormente.
+Por otra parte, el tratamiento de datos de carácter personal que no hayan sido recabados directamente del interesado se permite, aunque es obligatorio informar debidamente como se comentó anteriormente.
 
 Una cláusula modelo para la información/consentimiento de derechos amparados por esta ley podría ser así:
 
@@ -64,7 +64,7 @@ Hay 4 en total:
 
 * __Consentimiento inequívoco__: En el cual se requiere del interesado un consentimiento inequívoco, salvo si la ley dispone de otra cosa.
 
-* __Consentimiento táctico__: En el que se establece de forma normal y no se exije un consentimiento expreso o expreso por escrito.
+* __Consentimiento táctico__: En el que se establece de forma normal y no se exige un consentimiento expreso o expreso por escrito.
 
 * __Consentimiento expreso__: En el que aquellos datos de carácter personal que referencien el origen racial, la salud y la vida sexual solo podrán ser recabados, tratados y cedidos cuando por razones de interés general siempre se disponga de una ley que lo avale o el interesado lo consienta expresamente.
 
@@ -79,7 +79,7 @@ Esto consigo trajo consigo varios cambios, por una parte el cumplimiento de la l
 
 Este reglamento surgió a causa de querer estandarizar las leyes de protección de datos y para ofrecer un nuevo conjunto de los derechos digitales en esta época dado el valor económico de los datos personales, que cada día aumenta más en la economía digital.
 
-Por otra parte, se obligó a que en cada estado miembro de la UE hubiera una autoridad de supervisión respecto a esta ley, para escuchar e investigar denuncias y sancionar infracciones administrativos, entre otras cosas. La Agencia Española de Protección de Datos siguió existiendo para velar estatalmente por esta nueva ley.
+Por otra parte, se obligó a que en cada estado miembro de la UE hubiera una autoridad de supervisión respecto a esta ley, para escuchar e investigar denuncias y sancionar infracciones administrativas, entre otras cosas. La Agencia Española de Protección de Datos siguió existiendo para velar estatalmente por esta nueva ley.
 
 ### Tratamiento con la información
 
@@ -89,7 +89,7 @@ Para ello se establecieron responsables que debían ser designados:
 
 * Para todas las autoridades públicas (sin contar con tribunales que actúan en su capacidad judicial)
 * Si aquellas actividades centrales del controlador o del procesador consisten en
-    * Un tratamiento de "operaciones" en virtud de su próposito y naturaleza con un control regular requerido sistemático de los interesados a gran escala.
+    * Un tratamiento de "operaciones" en virtud de su propósito y naturaleza con un control regular requerido sistemático de los interesados a gran escala.
     * Un tratamiento en una "escala" grande de categorías especiales conformes a los datos personales relacionados con condenas penales de delitos concretos. [^1]
 
 [^1]: Delitos establecidos en el Artículo 9 y condenas penales y delitos a los que se refiere el artículo 10
@@ -104,19 +104,19 @@ Los datos dados por otra parte en este proceso debían tratarse si existía una 
 
 En cuanto al consentimiento, se utilizó como una base legal pilar para el tratamiento. Este debía ser uno y explícito para aquellos datos recopilados y sus fines con ellos. Los controladores podían probar dicho consentimiento o bien retirarlo.
 
-Además se tenía en cuenta el consentimiento para personas menores de edad siendo solamente dado a través de los pabres o tutor de la persona en cuestión y este debía ser verificable.
+Además, se tenía en cuenta el consentimiento para personas menores de edad siendo solamente dado a través de los padres o tutor de la persona en cuestión y este debía ser verificable.
 
 ## Diferencias o cambios de LOPD a RGPD
 
-Los cambios producidos del cambio de la LOPD a la RGPD se producieron principalmente en cuatro áreas en los que se encontraban los ámbitos y trámites que debía tener en cuenta la AEPD[^2], los derechos de los usuarios, las obligaciones de las empresas y los procesos que llevan a cabo y por útimo, las sanciones para las empresas.
+Los cambios producidos del cambio de la LOPD a la RGPD se produjeron principalmente en cuatro áreas en los que se encontraban los ámbitos y trámites que debía tener en cuenta la AEPD[^2], los derechos de los usuarios, las obligaciones de las empresas y los procesos que llevan a cabo y por útimo, las sanciones para las empresas.
 
 [^2]: Agencia Española de Protección de Datos
 
-A continuación veamos estos cambios en profundidad:
+A continuación, veamos estos cambios en profundidad:
 
 1. **Ámbitos y trámites con la AEPD**
     1.1. La LOPD solo protegía a los ciudadanos europeos, ahora la RPGD protege a todos los ciudadanos europeos.
-    1.2. Se amplian los datos especialmente protegidos añadiendo datos genéticos y biométricos.
+    1.2. Se amplían los datos especialmente protegidos añadiendo datos genéticos y biométricos.
     1.3. Antes era obligatorio inscribir nuestros ficheros en el registro de protección de datos, ahora se debe documentar todos los procesos del tratamiento de datos ante la AEDP.
     1.4. Tenemos la obligación de informar de cualquier filtración en un plazo máximo de 72 horas.
 
