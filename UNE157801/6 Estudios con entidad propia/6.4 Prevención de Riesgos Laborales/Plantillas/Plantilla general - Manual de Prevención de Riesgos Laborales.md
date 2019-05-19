@@ -1,8 +1,6 @@
 # Plantilla general: Manual de Prevención de Riesgos Laborales. 
 
-## Manual de prevención de riesgos laborales.
-
-### Contenido Manual.
+## Contenido Manual.
 
 1. **Presentación y bienvenida:** 
 1. **Obligaciones y derechos del trabajador:** 
