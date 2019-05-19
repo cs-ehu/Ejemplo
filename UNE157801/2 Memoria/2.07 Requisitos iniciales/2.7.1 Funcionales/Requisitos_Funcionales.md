@@ -9,7 +9,7 @@ Los requisitos funcionales deben describir también cómo responderá el sistema
 Aquellos que describen cualquier actividad que este deba realizar, el comportamiento o función particular de un sistema o software. 
 Incluye funciones desempeñadas por pantallas específicas, descripciones de los flujos de trabajo a ser desempeñados por el sistema y otros requerimientos de negocio, cumplimiento, seguridad u otra índole. 
 
-Deben redactarse de tal forma que el lector pueda entender el funcionamiento del sistema sin tener conocimiientos. Estas se obtienen mediante técnicas de levantamiento de requerimientos de software. 
+Deben redactarse de tal forma que el lector pueda entender el funcionamiento del sistema sin tener conocimientos. Estas se obtienen mediante técnicas de levantamiento de requerimientos de software. 
 
 ### Descripción y clasificación
 Se suelen registrar en la **matriz de trazabilidad de requerimientos** y en la **especificación de requerimientos de software**, este último documenta las operaciones y actividades que el sistema debe poder desempeñar. 
