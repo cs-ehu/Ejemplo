@@ -1,13 +1,5 @@
 # Plantilla general: Manual de Prevención de Riesgos Laborales. 
 
-<div style="text-align: justify">
-
-## Índice
-* [Manual de prevención de riesgos laborales.](#Manual-de-prevención-de-riesgos-laborales.)
-    * [Contenido Manual.](#Contenido-Manual)
-
-
-
 ## Manual de prevención de riesgos laborales.
 
 ### Contenido Manual.
