@@ -1,5 +1,4 @@
 
-
 # LOPD y RGPD
 
 ## Índice
@@ -69,7 +68,7 @@ Hay 4 en total:
 
 ## Reglamento General de Protección de Datos (RGPD)
 
-Con la llegada de 2016, la Unión Europea aprobó el reglamento relativo a la protección de datos a nivel internacional creando así una normativa que tuviera que ser seguida por cualquier tipo de empresa que tuviera negocios dentro de la Unión Europea. A esto se le asigno las siglas **RGPD** y se le llamó **Reglamento General de Protección de Datos**.
+El **Reglamento General de Protección de Datos (RGPD)** es el reglamento europeo relativo a la protección de las personas físicas en lo que respecta al tratamiento de sus datos personales y a la libre circulación de estos datos. Entró en vigor el 25 de mayo de 2016 y fue de aplicación el 25 de mayo de 2018, la Unión Europea aprobó el reglamento relativo a la protección de datos a nivel internacional creando así una normativa que tuviera que ser seguida por cualquier tipo de empresa que tuviera negocios dentro de la Unión Europea.
 
 Esto consigo trajo consigo varios cambios, por una parte el cumplimiento de la ley por parte de todas las empresas antes del año de la aplicación de dicha ley que fue en 2018 y por otra, el dejar obsoleta en España la **Ley Orgánica de Protección de Datos** establecida en 1999, siendo así sustituida por la nueva **Ley Orgánica de Protección de Datos** de 2018 acorde al **Reglamento General de Protección de Datos**.
 
@@ -153,11 +152,9 @@ Los datos en estos tiempos tienen valor monetario y en la era de la información
 1. [Entrada a página de información especializada en LOPD](https://www.expertoslopd.es/)
 2. [Sobre LOPD/RGPD ¿Qué es la ley de protección de datos?](https://ostec.blog/es/generico/ley-proteccion-datos-que-es)
 3. [Vídeo acerca de las diferencias entre LOPD/RGPD](https://www.youtube.com/watch?v=fpY7kdyQ3dM)
+4. [Vídeo sobre las Proteccion de Datos y la Nueva Lopd 2018](https://www.youtube.com/watch?v=CBSPH0TiH14)
+5. [Vídeo sobre los derechos del individuo segun la RGPD](https://www.youtube.com/watch?v=PCuRbPAHh-c)
 
 > Calidad de Software - Miguel Ángel Blanco - 10/4/2019
-
-
-
-
 
 
