@@ -1,11 +1,11 @@
 # Lista de hitos 
 ## Introducción
-El documento denominado "Lista de hitos" es el encargado de enumerar todos los hitos (o "Milestones") que afectan a nuestro proyecto. Los hitos del proyecto se fijan en fechas (cuándo se empieza a trabajar en el y para cuando debería estar completamente realizado) y representan una tarea a completar. 
+El documento denominado "Lista de hitos" es el encargado de enumerar todos los hitos (o "Milestones") que afectan a nuestro proyecto. Los hitos del proyecto se fijan en fechas (cuándo se empieza a trabajar en él y para cuando debería estar completamente realizado) y representan una tarea a completar. 
 
 ## Alcance
-La lista de hitos es un documento inicialmente de planificación, que una vez se llega al final del proyecto, se comparan las fechas donde debería haberse llegado al hito en concreto y la fecha en la que finalmente se alcanzó dicho hito. De esta manera, para generar una correcta planificación (así como para tener una buena forma de llevar un seguimiento y control del proyecto) es indispensable una buena fijación de los hitos en el tiempo. No deberíamos establecer fechas muy prematuras si la tarea acarrea demasiado trabajo o viceversa, ya que estaríamos siguiendo una planificación muy erronea en el apartado de el tiempo de realización de tareas.
+La lista de hitos es un documento inicialmente de planificación, que una vez se llega al final del proyecto, se comparan las fechas donde debería haberse llegado al hito en concreto y la fecha en la que finalmente se alcanzó dicho hito. De esta manera, para generar una correcta planificación (así como para tener una buena forma de llevar un seguimiento y control del proyecto) es indispensable una buena fijación de los hitos en el tiempo. No deberíamos establecer fechas muy prematuras si la tarea acarrea demasiado trabajo o viceversa, ya que estaríamos siguiendo una planificación muy errónea en el apartado del tiempo de realización de tareas.
 ## Esquema general
-A la hora de la realización de este documento, debemos identificar unas super tareas (como podría ser "Generación de código", "Diseño ") que luego se ramifiquen en tareas más pequeñas. De esta manera, se generarán los hitos de las tareas más pequeñas, y el hito de la "super tarea" sería la puesta en común y agrupación de todas la pequeñas que engloba. Por ejemplo (aunque faltaría añadir las fechas...):
+A la hora de la realización de este documento, debemos identificar unas super tareas (como podría ser "Generación de código", "Diseño ") que luego se ramifiquen en tareas más pequeñas. De esta manera, se generarán los hitos de las tareas más pequeñas, y el hito de la "super tarea" sería la puesta en común y agrupación de todas las pequeñas que engloba. Por ejemplo (aunque faltaría añadir las fechas...):
 * Hito_1: Inicio del proyecto Java
 * Hito_2: Diseño y estructura
     * Hito_2.1: Generar diseño UML
