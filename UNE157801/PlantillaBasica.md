@@ -1,10 +1,10 @@
 # Orientaciones sobre el documento
 
-Para facilitar la elaboración de la documentación de un Proyecto de Ingeniería Informática
+Para facilitar la elaboración de la documentación de un Proyecto de Ingeniería Informática,
 el Consejo General de Colegios Profesionales de Ingeniería Informática proporciona un [documento básico](https://www.inf.upv.es/www/etsinf/wp-content/uploads/2018/05/plantillaNorma.pdf) con la estructura y comentarios que se han considerado pertinentes para cumplir con la [Norma CCII-N2016-02](http://cpiicm.es/wp-content/uploads/sites/3/2016/11/CCII-N2016-02-Norma-Tecnica-para-la-realizacion-de-la-Documentacion-de-Proyectos-en-Ingenieria-Informatica-V1.0-f.pdf) Norma Técnica para la
 realización de la Documentación de Proyectos en Ingeniería Informática. 
 
-Este documento contiene una plantilla con el índice completo de los documentos que deberá incluir la documentación del proyecto informático así como orientaciones generales sobre el contenido que deberán tener los mismos
+Este documento contiene una plantilla con el índice completo de los documentos que deberá incluir la documentación del proyecto informático, así como orientaciones generales sobre el contenido que deberán tener los mismos
 
 La normativa se ha realizado teniendo en cuenta las normas y estándares nacionales e internacionales en dirección y gestión de proyectos. En particular las Normas UNE 157001:2014 “Criterios generales para la elaboración formal de los documentos que constituyen un proyecto técnico” y UNE 157801:2007 “Criterios Generales para la elaboración de proyectos de Sistemas de Información”, sobre la que se desarrolla el
 núcleo de la normativa, así como Guía del PMBOK®- Quinta Edición “PMI - Guía de los Fundamentos para la Dirección de Proyectos”, UNE - ISO 21500:2013 “Directrices para la dirección y gestión de proyectos”.
