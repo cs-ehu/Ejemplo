@@ -1,7 +1,4 @@
-:::info
-Estructura de las bases de datos
->[name=Miguel Ángel Blanco]
-:::
+
 
 # Estructura de las bases de datos
 ## Índice
@@ -14,7 +11,7 @@ Estructura de las bases de datos
 
 Una **base de datos** es un conjunto de datos el cuál forma parte de un mismo contexto y están almacenados de forma sistemática para un uso futuro. El ejemplo más claro de algo parecido a esto en el mundo real podría ser el de una biblioteca, una biblioteca está compuesta en su mayoría por textos en papel indexados para su consulta. Un ejemplo de algo así a nivel de base de datos podría ser lo siguiente.
 
-![](https://2.bp.blogspot.com/-4N-kGyoBXOo/UHjN0TWG_SI/AAAAAAAAAAQ/_TVOxXyAa98/s1600/Captura.PNG)
+![](http://blog.jescoto.com/wp-content/uploads/2018/07/Relaciones.png)
 
 Y es que tal y como se puede observar aquí, la representación de los datos es muy importante y debe estar por tanto jerarquizada. Por lo que entramos en contacto con que para una base de datos uno de los pilares fundamentales es su **estructura**.
 ## Estructura de una base de datos
