@@ -10,28 +10,27 @@ cada miembro del equipo del proyecto, la participación de todos los miembros en
 la planificación del proyecto es beneficiosa. La participación de los miembros del equipo en la planificación
 aporta su experiencia al proceso y fortalece su compromiso con el proyecto.
 
+
 El siguiente gráfico proporciona una descripción general de los procesos de Gestión de los Recursos Humanos
 del Proyecto, a saber:
 ![Grafico de recursos humanos](https://i.imgur.com/MGoKIzb.png)
 
 ##  Planificar la Gestión de los Recursos Humanos
 Es el proceso de identificar y documentar los roles dentro de un proyecto, las responsabilidades, las habilidades requeridas y las relaciones de comunicación, así como de crear un plan para la gestión de personal. El beneficio clave de este proceso es que establece los roles y responsabilidades del proyecto, los organigramas del proyecto y el plan para la gestión de personal, el cual incluye el cronograma para la adquisición y liberación del personal.
+=======
+Es el proceso por el cual se identifican,documentan los roles y responsabilidades dentro del proyecto. Así como, las habilidades requeridas y las relaciones de comunicación. Durante este proceso se crea el "Plan para la Dirección del Personal".
+
 
 A la hora de planificar las necesidades de recursos humanos, debería darse respuesta a las siguientes preguntas:
 
 * ¿Cómo y cuándo deberá incorporarse cada uno de los miembros del equipo?
-
 * ¿Qué capacidades actuales posee cada persona? ¿Necesidades de capacitación?
-
 * ¿A qué reunión debe asistir cada persona?
-
 * ¿Cada cuánto tiempo y cuándo deberá cada una de las personas remitir los informes?
-
 * ¿Se establecerá un sistema de recompensas? ¿De qué tipo será?
-
 * ¿Cómo y cuándo liberaremos del Proyecto a cada persona?
-
 * ¿Qué medidas vamos a adoptar para proteger al equipo de influencias externas?
+
 
 ### Documentos y recursos de partida
 * Plan para la Dirección del Proyecto. Utiliza información del ciclo de vida del proyecto y sus fases. Plan de gestión de cambios y de la configuración, así como de las necesidades de comunicación.
@@ -39,8 +38,17 @@ A la hora de planificar las necesidades de recursos humanos, debería darse resp
 * Requisitos de recursos para cada actividad. Obtenidos del proceso Estimar los recursos de las actividades.
 
 * Factores Ambientales de la Empresa. Como, por ejemplo, la cultura y estructura de la organización, los recursos humanos existentes o las políticas de administración de personal.
+=======
+## Entradas
+
+* Plan para la Dirección del Proyecto: Utiliza información del ciclo de vida del proyecto y sus fases. Plan de gestión de cambios y de la configuración, así como de las necesidades de comunicación.
+* Requisitos de recursos para cada actividad: Obtenidos del proceso "Estimar los recursos de las actividades".
+* Factores Ambientales de la Empresa: Por ejemplo, la cultura y estructura de la organización, los recursos humanos existentes o las políticas de administración de personal.
+* Activos de los procesos de la Organización: Los procesos y políticas estándar de la organización, las plantillas para organigramas y descripciones de cargos o la información histórica.
+
 
 * Activos de los procesos de la Organización. Pueden influir en este proceso, entre otros, los procesos y políticas estándar de la Organización, las plantillas para organigramas y descripciones de cargos o la información histórica.
+
 
 ### Herramientas y técnicas
 * Organigramas y descripciones de cargos. Existen diversos formatos para documentar el papel y las responsabilidades de los miembros del equipo, como pueden ser,  el jerárquico (Organization Chart u Organizational Breakdown Structure OBS), el matricial o el textual.
@@ -49,10 +57,17 @@ A la hora de planificar las necesidades de recursos humanos, debería darse resp
 * Creación de relaciones de trabajo. Consiste en establecer relaciones, formales e informales, entre los miembros del equipo. Por ejemplo, comidas de negocios, eventos, reuniones informales fuera de la oficina, etc.
 
 * Teoría de la Organización. Aporta información sobre la forma en que se comportan las personas, equipos y unidades de la organización. Debe considerarse que la respuesta y desempeño individuales y las características de las relaciones personales varían en función de las diferentes estructuras que pueda adoptar la organización.
+=======
+* Organigramas y descripciones de cargos: Existen diversos formatos para documentar el papel y las responsabilidades de los miembros del equipo, como pueden ser,  el jerárquico (Organization Chart u Organizational Breakdown Structure OBS), el matricial o el textual.
+* Creación de relaciones de trabajo: Consiste en establecer relaciones, formales e informales, entre los miembros del equipo. Por ejemplo, comidas de negocios, eventos, reuniones informales fuera de la oficina, etc.
+* Teoría de la Organización: Aporta información sobre la forma en que se comportan las personas, equipos y unidades de la organización. Debe considerarse que la respuesta y desempeño individuales y las características de las relaciones personales varían en función de las diferentes estructuras que pueda adoptar la organización.
+* Reuniones: Del equipo de proyecto.
+
 
 * Reuniones. Las reuniones del equipo de proyecto hacen uso de una combinación de otras herramientas y técnicas
 para permitir a todos los miembros del equipo de dirección del proyecto alcanzar un consenso sobre el plan
 de gestión de los recursos humanos.
+
 
 ### Documentos y recursos de salida
 * Plan de Gestión de los Recursos Humanos. En el cual, se identifican y documentan los roles y las responsabilidades de los miembros del equipo de proyecto. Así como las competencias requeridas para ejercerlos, el organigrama del proyecto, las relaciones de autoridad y retro información y el Plan de Gestión de Personal.
@@ -175,3 +190,9 @@ proyecto apartándolo del plan para la dirección del proyecto, ocasionando que 
 [Artículo - Planificar la gestión de los recursos humanos](https://todopmp.com/planificar-la-gestion-los-recursos-humanos/)
 
 **Capítulo 9 de PMBoK(Quinta Edición)**
+=======
+* Plan de Gestión de los Recursos Humanos: Se identifican y documentan los roles y las responsabilidades de los miembros del equipo de proyecto. Así como las competencias requeridas para ejercerlos, el organigrama del proyecto, las relaciones de autoridad y retro información y el Plan de Gestión de Personal.
+* Roles y Responsabilidades: Rol es el cargo o posición que ocupa una persona en cada actividad del Proyecto, mientras que responsable es la persona que debe lograr que la actividad se desarrolle de manera adecuada. Cabe aclarar que el responsable podría ser una persona distinta a la que realiza la actividad.
+* Organigramas y descripciones de puestos:  Donde se establece el nivel jerárquico de los miembros del equipo.
+* Plan para la Dirección del Personal:  El cual detalla cómo se adquirirá el personal, el histograma de recursos, la política para la liberación y reintegro de los recursos. Así como, los planes de capacitación, la política de reconocimiento y recompensas, los convenios de trabajo, las normas de seguridad laboral, etc.
+
