@@ -14,9 +14,7 @@ núcleo de la normativa, así como Guía del PMBOK®- Quinta Edición “PMI - G
 
 |  |   |
 |---|---|
-
 |Número de volumen |Indicar si el documento proyecto consta de varios volúmenes|
-
 |Título del proyecto| Nombre y en su caso siglas del proyecto|
 |Código del proyecto| El código de proyectos es opcional|
 |Tipo de documento básico |Identifica el (los) documentos básicos incluidos en este documento según se establece en norma UNE 157801|
@@ -24,7 +22,6 @@ núcleo de la normativa, así como Guía del PMBOK®- Quinta Edición “PMI - G
 |Suministrador|Identifica a) Razón social, C.I.F., dirección, teléfono y fax de la persona jurídica que ha recibido el encargo de la realización del proyecto b) Nombre y apellidos, N.I.F., dirección profesional, teléfono y fax del representante legal de la persona jurídica que ha recibido el encargo de la realización del proyecto.|
 |Autor (es) |Identifica a) En su caso Nombre y apellidos, titulación, y si procede colegio profesional al que pertenece, número de colegiado, N.I.F., dirección profesional, teléfono, fax y cualquier otro identificador profesional que pueda aparecer o existir, de cada uno de los autores del proyecto. b) Fecha y firma de los anteriormente mencionados|
 |Resumen|  |
-
 |Duración estimada en jornadas: nnnnnn |Fecha de inicio:DD/MM/AA Fecha de finalización:DD/MM/AA (se indicaran cuando ambas estén aprobadas por contrato)|
 |Presupuesto y moneda |Importe total del proyecto Importe de los impuestos aplicables al proyecto: (se indicaran cuando estén aprobados por contrato)|
 
