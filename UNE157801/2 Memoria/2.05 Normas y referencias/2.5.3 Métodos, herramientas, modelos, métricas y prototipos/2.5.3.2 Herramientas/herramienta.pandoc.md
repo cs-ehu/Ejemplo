@@ -29,7 +29,7 @@ Pandoc puede convertir documentos en markdown, reStructuredText, textile, HTML, 
 
 ### Horas de aprendizaje
 En total, entre tareas obligatorias e opcionales, en algo menos de hora y media podríamos aprender a usar pandoc con facilidad.Tiene una curva de aprendizaje rápido y corta. 
-Si se require aprender funcionalidades más especificas estimamos otras 3h de dedicación.
+Si se requiere aprender funcionalidades más especificas estimamos otras 3h de dedicación.
 
 
 ### Ventajas
@@ -56,4 +56,4 @@ Si se require aprender funcionalidades más especificas estimamos otras 3h de de
 ### Conclusiones
 Pandoc al ser un conversor de documentos, como desarrolladores de software nos ayuda a transformar un formato a otro de una manera sencilla e intuitiva y sobretodo sin complicaciones. 
 
-Al ser una herramientoa sencilla de aprender e implementar para los usuarios no se necesitan habilidades de programación.  
+Al ser una herramienta sencilla de aprender e implementar para los usuarios no se necesitan habilidades de programación.  

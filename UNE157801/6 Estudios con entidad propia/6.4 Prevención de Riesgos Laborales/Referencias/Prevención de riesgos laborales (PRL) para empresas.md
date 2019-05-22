@@ -82,9 +82,7 @@ Nota:
 Se adjunto un bosquejo diseñado en markdown para el manual de prevención de riesgos laborales.
 Además de un ejemplo de un manual de prevención de riesgos por parte de MCMutual.
 ~~~
-[Plantilla manual de prevención de riesgos laborales](https://github.com/cs-ehu/Ejemplo/blob/ex2-Karla/UNE157801/6%20Estudios%20con%20entidad%20propia/6.4%20Prevenci%C3%B3n%20de%20Riesgos%20Laborales/Plantillas/Plantilla%20general%20-%20Manual%20de%20Prevenci%C3%B3n%20de%20Riesgos%20Laborales.md)
 
-[Manual de prevención por parte de MCMutal](https://github.com/cs-ehu/Ejemplo/blob/ex2-Karla/UNE157801/6%20Estudios%20con%20entidad%20propia/6.4%20Prevenci%C3%B3n%20de%20Riesgos%20Laborales/Ejemplo/ejemplo_manual_de_prevencion.pdf)
 
 ## Plan de prevención de riesgos laborales. 
 Este plan de prevención de riesgos laborales deberá comprender todas las actividades que se produzcan en la empresa y también deberá abarcar a todos los empleados, sin importar el nivel jerárquico que ocupen dentro del escalafón empresarial. De esta manera se garantiza la total cobertura de riesgos a todos los niveles laborales, independientemente del sector laboral que ocupen.
@@ -106,8 +104,6 @@ Muchos de los apartados del plan de PRL son dinámicos, y que, por tanto, confor
 Nota: 
 Se adjunto un bosquejo diseñado en markdown para el plan  de prevención de riesgos laborales. 
 ~~~
-[Plantilla plan de prevención de riesgos laborales](https://github.com/cs-ehu/Ejemplo/blob/ex2-Karla/UNE157801/6%20Estudios%20con%20entidad%20propia/6.4%20Prevenci%C3%B3n%20de%20Riesgos%20Laborales/Plantillas/Plantilla%20general%20-%20Plan%20de%20Prevenci%C3%B3n%20de%20Riesgos%20Laborales.md)
-
 
 ## Evaluación de riesgos laborales. 
 Todas las empresas tienen que hacer una evaluación de riesgos laborales tal y como establece la Ley. Esta evaluación pretende detectar los riesgos que puedan existir en todos y cada uno de los puestos de trabajo de la empresa, y, en base a ellos, tomar medidas para minimizarlos o, directamente, erradicarlos.

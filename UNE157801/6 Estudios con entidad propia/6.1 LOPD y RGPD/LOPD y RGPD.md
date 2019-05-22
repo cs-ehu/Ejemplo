@@ -1,7 +1,3 @@
-:::info
-LOPD y RGPD
-> [name=Miguel Ángel Blanco]
-:::
 
 # LOPD y RGPD
 
@@ -22,7 +18,7 @@ LOPD y RGPD
 
 ¿Qué se entiende por las leyes de protección de datos? seguramente si has estado investigando en cuanto a marketing o estés entrando en ese mundo te será familiar ese concepto y no es para menos, ya que las leyes de protección de datos es algo que tiene que cumplir todo autónomo o empresa.
 
-Por leyes de protección de datos se entiende que son leyes que constan de establecer reglas y límites para la recolección, custodia y transferencia de datos de personas, principalmente en el medio digital. Su próposito principal es que toda información que se utilice o extraiga, tenga ligada unos derechos de uso y unas obligaciones para quién trata con ella.
+Por leyes de protección de datos se entiende que son leyes que constan de establecer reglas y límites para la recolección, custodia y transferencia de datos de personas, principalmente en el medio digital. Su propósito principal es que toda información que se utilice o extraiga, tenga ligada unos derechos de uso y unas obligaciones para quién trata con ella.
 
 Pero ¿qué tipos de leyes de protección de datos hay? a continuación lo explicaremos.
 
@@ -43,7 +39,7 @@ Con esto se estableció que aquellos interesados a los que se les solicite datos
 2. El carácter obligatorio o facultativo de la respuesta de las preguntas que se hagan.
 3. Las consecuencias de la obtención de los datos o la negativa a suministrarlos.
 4. La posibilidad de ejercitar los derechos de acceso, rectificación, cancelación y oposición.
-5. De la identidad y dirección del responsable de su tratamiendo o de su representante.
+5. De la identidad y dirección del responsable de su tratamiento o de su representante.
 
 Por otra parte, el tratamiento de datos de carácter personal que no hayan sido recabados directamente del interesado se permiten aunque es obligatorio informar debidamente como se comentó anteriormente.
 
@@ -64,7 +60,7 @@ Hay 4 en total:
 
 * __Consentimiento inequívoco__: En el cual se requiere del interesado un consentimiento inequívoco, salvo si la ley dispone de otra cosa.
 
-* __Consentimiento táctico__: En el que se establece de forma normal y no se exije un consentimiento expreso o expreso por escrito.
+* __Consentimiento táctico__: En el que se establece de forma normal y no se exija un consentimiento expreso o expreso por escrito.
 
 * __Consentimiento expreso__: En el que aquellos datos de carácter personal que referencien el origen racial, la salud y la vida sexual solo podrán ser recabados, tratados y cedidos cuando por razones de interés general siempre se disponga de una ley que lo avale o el interesado lo consienta expresamente.
 
@@ -72,7 +68,7 @@ Hay 4 en total:
 
 ## Reglamento General de Protección de Datos (RGPD)
 
-Con la llegada de 2016, la Unión Europea aprobó el reglamento relativo a la protección de datos a nivel internacional creando así una normativa que tuviera que ser seguida por cualquier tipo de empresa que tuviera negocios dentro de la Unión Europea. A esto se le asigno las siglas **RGPD** y se le llamó **Reglamento General de Protección de Datos**.
+El **Reglamento General de Protección de Datos (RGPD)** es el reglamento europeo relativo a la protección de las personas físicas en lo que respecta al tratamiento de sus datos personales y a la libre circulación de estos datos. Entró en vigor el 25 de mayo de 2016 y fue de aplicación el 25 de mayo de 2018, la Unión Europea aprobó el reglamento relativo a la protección de datos a nivel internacional creando así una normativa que tuviera que ser seguida por cualquier tipo de empresa que tuviera negocios dentro de la Unión Europea.
 
 Esto consigo trajo consigo varios cambios, por una parte el cumplimiento de la ley por parte de todas las empresas antes del año de la aplicación de dicha ley que fue en 2018 y por otra, el dejar obsoleta en España la **Ley Orgánica de Protección de Datos** establecida en 1999, siendo así sustituida por la nueva **Ley Orgánica de Protección de Datos** de 2018 acorde al **Reglamento General de Protección de Datos**.
 
@@ -89,7 +85,7 @@ Para ello se establecieron responsables que debían ser designados:
 
 * Para todas las autoridades públicas (sin contar con tribunales que actúan en su capacidad judicial)
 * Si aquellas actividades centrales del controlador o del procesador consisten en
-    * Un tratamiento de "operaciones" en virtud de su próposito y naturaleza con un control regular requerido sistemático de los interesados a gran escala.
+    * Un tratamiento de "operaciones" en virtud de su propósito y naturaleza con un control regular requerido sistemático de los interesados a gran escala.
     * Un tratamiento en una "escala" grande de categorías especiales conformes a los datos personales relacionados con condenas penales de delitos concretos. [^1]
 
 [^1]: Delitos establecidos en el Artículo 9 y condenas penales y delitos a los que se refiere el artículo 10
@@ -104,11 +100,11 @@ Los datos dados por otra parte en este proceso debían tratarse si existía una 
 
 En cuanto al consentimiento, se utilizó como una base legal pilar para el tratamiento. Este debía ser uno y explícito para aquellos datos recopilados y sus fines con ellos. Los controladores podían probar dicho consentimiento o bien retirarlo.
 
-Además se tenía en cuenta el consentimiento para personas menores de edad siendo solamente dado a través de los pabres o tutor de la persona en cuestión y este debía ser verificable.
+Además se tenía en cuenta el consentimiento para personas menores de edad siendo solamente dado a través de los padres o tutor de la persona en cuestión y este debía ser verificable.
 
 ## Diferencias o cambios de LOPD a RGPD
 
-Los cambios producidos del cambio de la LOPD a la RGPD se producieron principalmente en cuatro áreas en los que se encontraban los ámbitos y trámites que debía tener en cuenta la AEPD[^2], los derechos de los usuarios, las obligaciones de las empresas y los procesos que llevan a cabo y por útimo, las sanciones para las empresas.
+Los cambios producidos del cambio de la LOPD a la RGPD se produjeron principalmente en cuatro áreas en los que se encontraban los ámbitos y trámites que debía tener en cuenta la AEPD[^2], los derechos de los usuarios, las obligaciones de las empresas y los procesos que llevan a cabo y por útimo, las sanciones para las empresas.
 
 [^2]: Agencia Española de Protección de Datos
 
@@ -155,12 +151,10 @@ Los datos en estos tiempos tienen valor monetario y en la era de la información
 
 1. [Entrada a página de información especializada en LOPD](https://www.expertoslopd.es/)
 2. [Sobre LOPD/RGPD ¿Qué es la ley de protección de datos?](https://ostec.blog/es/generico/ley-proteccion-datos-que-es)
-3. [Vídeo acerda de las diferencias entre LOPD/RGPD](https://www.youtube.com/watch?v=fpY7kdyQ3dM)
+3. [Vídeo acerca de las diferencias entre LOPD/RGPD](https://www.youtube.com/watch?v=fpY7kdyQ3dM)
+4. [Vídeo sobre las Proteccion de Datos y la Nueva Lopd 2018](https://www.youtube.com/watch?v=CBSPH0TiH14)
+5. [Vídeo sobre los derechos del individuo segun la RGPD](https://www.youtube.com/watch?v=PCuRbPAHh-c)
 
 > Calidad de Software - Miguel Ángel Blanco - 10/4/2019
-
-
-
-
 
 

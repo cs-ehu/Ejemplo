@@ -12,9 +12,9 @@ Usando mvn test se pueden ejecutar tests en Maven
 
 
 ---
-
 El plugin Surefire se usa durante la fase de test del ciclo de vida para ejecutar los test de una aplicación.
 Genera los reportes en dos formatos: 
+
 - Texto plano(*.txt)
 - XML(*.xml)
 
@@ -194,11 +194,9 @@ Resultados del terminal
     [INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 s - in es.ehu.cs19.TestNumMagico
     [INFO]
     [INFO] Results:
-
     [INFO]
     [INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0
     [INFO]
-
     [INFO] ------------------------------------------------------------------------
     [INFO] BUILD SUCCESS
     [INFO] ------------------------------------------------------------------------

@@ -13,7 +13,11 @@
 
 ## Descripción
 
-La fase validate consiste en validar que el proyecto sea correcto, y que toda la informacion necesaria este disponible. Es la primera fase del ciclo de vida de un proyecto
+La fase validate consiste en validar que el proyecto sea correcto, y que toda la informacion necesaria este disponible. Es la primera fase del ciclo de vida de un proyecto.
+
+Las fases son jerárquicas, lo que significa que la ejecución de una fase provoca la ejecución de todas las fases que la preceden.
+
+Emitir el comando mvn compile inicia la fase validate (que es la primera fase del ciclo de vida de construcción predeterminado de Maven), lo que llama a todas las metas vinculadas con esa fase.
 
     <plugin>
         <groupId>org.apache.maven.plugins</groupId>
@@ -34,7 +38,8 @@ Para validar un proyecto hay que insertar este plugin en el POM.
     validate
 Para comprobar que el proyecto es válido deberemos ejecutar el comando validate, y coprobar que la salida sea la siguiente.
 
-![!. Imagen pantallazo validate](https://i.imgur.com/lsdi4wG.png)
+![Imagen pantallazo validate](https://i.imgur.com/8RlHLc9.png)
+
 *Ejemplo validate
 
 

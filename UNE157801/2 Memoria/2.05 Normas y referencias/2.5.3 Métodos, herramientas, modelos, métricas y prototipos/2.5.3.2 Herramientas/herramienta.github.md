@@ -11,7 +11,7 @@
 
 | ID | Descripción                                | Referencia                   | Tiempo  |
 |----| ------------------------------------------ | ---------------------------- | ------- |
-| 1  | Introducción a GitHub                      | [Introduccíon][enlace4]      | 00:30:00|
+| 1  | Introducción a GitHub                      | [Introducción][enlace4]      | 00:30:00|
 | 2  | Curso rápido de Git y GitHub               | [Vídeo][enlace5]  | 00:30:00|
 
 

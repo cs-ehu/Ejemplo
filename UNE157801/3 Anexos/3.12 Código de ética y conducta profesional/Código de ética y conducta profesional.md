@@ -1,6 +1,7 @@
 # Código de ética y conducta profesional 
 ## Introducción
 Para la realización de un proyecto informático en equipo, es recomendable (por no decir indispensable) marcar una serie de pautas y conductas para lograr un buen ambiente de equipo de proyecto que ayudará a la correcta realización del proyecto en común.
+
 El PMI (Project Management Institute) recoge su propio código de ética y conducta profesional, la cual impone como necesaria para cualquier equipo inmerso en un proyecto en común. Como la norma UNE157801 normaliza la creación de proyectos de sistemas de información y éstos , en su gran mayoría, se realizan en equipo, se hace necesaria su integración en la documentación del proyecto. También se adjunta al proyecto el documento del PMI que recoje su código de ética.
 ### Historia
 + En 1981, la Junta Directiva del PMI conformó un Grupo de Ética, Normas y Acreditación. Una tarea requirió que el grupo deliberara sobre la necesidad de contar con un código de ética para la profesión. El informe del equipo constituyó la primera discusión documentada del PMI sobre ética para la profesión de la dirección de proyectos.
@@ -15,6 +16,12 @@ El PMI (Project Management Institute) recoge su propio código de ética y condu
 + Este Código de Ética y Desarrollo Profesional fue aprobado por la Junta Directiva del PMI en octubre de 2006.
 
 Este documento se basa en el código de coducta del PMI y está formado por en las siguientes partes:
+=======
+
+El PMI (Project Management Institute) recoge su propio código de ética y conducta profesional, la cual impone como necesaria para cualquier equipo inmerso en un proyecto en común. Como la norma UNE157801 normaliza la creación de proyectos de sistemas de información y éstos , en su gran mayoría, se realizan en equipo, se hace necesaria su integración en la documentación del proyecto. También se adjunta al proyecto el [documento del PMI](https://github.com/cs-ehu/Ejemplo/blob/master/UNE157801/3%20Anexos/3.12%20C%C3%B3digo%20de%20%C3%A9tica%20y%20conducta%20profesional/pmi%20code%20of%20ethics.pdf) que recoge su código de ética.
+
+Este documento se basa en el código de conducta del PMI y está formado por en las siguientes partes:
+
 ![](https://i.imgur.com/GWJUumb.png)
 
 
@@ -22,7 +29,7 @@ Este documento se basa en el código de coducta del PMI y está formado por en l
 Por responsabilidad se hace referencia a nuestra obligación de hacernos cargo de las decisiones que tomamos y de las que no tomamos y de las consecuencias que resultan.
 ### Normas ideales
 * Tomamos decisiones y medidas basándonos en lo que mejor conviene a los intereses de la sociedad, la seguridad pública y el medio ambiente.
-* Únicamente aceptamos aquellas asignaciones que se condicen con nuestros antecedentes, experiencia, habilidades y preparación profesional.
+* Únicamente aceptamos aquellas asignaciones que se corresponden con nuestros antecedentes, experiencia, habilidades y preparación profesional.
 * Hacemos lo que decimos que vamos a hacer.
 * Cuando cometemos errores u omisiones, nos responsabilizamos por ellos y los corregimos de inmediato.
 * Protegemos la información confidencial o de propiedad exclusiva que se nos haya confiado.
@@ -69,7 +76,7 @@ Honestidad es nuestro deber de comprender la verdad y actuar con sinceridad, tan
 * No nos involucramos ni aprobamos comportamientos tendientes a engañar a terceros (declaraciones falsas, verdades a medias...)
 * No nos involucramos en comportamientos deshonestos para beneficio personal ni a costa de terceros.
 ## Conclusión
-El código de ética y conducta del PMI especifica en los 4 distintos apartados las reglas generales para un buen clima grupal y así lograr que el proyecto siga su curso sin malentendidos, enfados y menosprecios entre los integrantes del equipo de proyecto. Es lógico pensar que todas las normas incluidas o su gran mayoría son "de sentido común", pero la realidad es que es muy común , a veces casi sin darnos cuenta, no cumplir con alguna o varias de ellas. Para un correcto desarrollo de un proyecto informático también es indispensable cumplir con todas estas normas, si bien es cierto que el propio PMI califica muchas como "ideales", es decir, que aunque no se puedan controlar su aplicación de una manera objetiva o tengan un alcance que puede sobrepasar a nuestro proyecto, se ha de actuar de manera correspondiente a ellas. Ni qué decir de las obligatorias, las cuales habrá que cumplir a rajatabla ya que la mayoría (por no decir todas) se pueden comprobar de manera objetiva.
+El código de ética y conducta del PMI especifica en los 4 distintos apartados las reglas generales para un buen clima grupal y así lograr que el proyecto siga su curso sin malentendidos, enfados y menosprecios entre los integrantes del equipo de proyecto. Es lógico pensar que todas las normas incluidas o su gran mayoría son "de sentido común", pero la realidad es que es muy común , a veces casi sin darnos cuenta, no cumplir con alguna o varias de ellas. Para un correcto desarrollo de un proyecto informático también es indispensable cumplir con todas estas normas, si bien es cierto que el propio PMI califica muchas como "ideales", es decir, que, aunque no se puedan controlar su aplicación de una manera objetiva o tengan un alcance que puede sobrepasar a nuestro proyecto, se ha de actuar de manera correspondiente a ellas. Ni qué decir de las obligatorias, las cuales habrá que cumplir a rajatabla ya que la mayoría (por no decir todas) se pueden comprobar de manera objetiva.
 
 ## Referencias
 [Página oficial de PMI](https://americalatina.pmi.org/latam/AboutUS/EthicsInProjectManagement/PMICodeOfEthicsAndProfessionalConduct.aspx)

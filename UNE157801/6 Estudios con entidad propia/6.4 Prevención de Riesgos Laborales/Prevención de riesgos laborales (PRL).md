@@ -101,6 +101,12 @@ A continuación se muestran vídeos orientados a la prevención de riesgos.
 | 2  |Ley 31/1995| [Ley de Prevención de Riesgos Laborales. Capítulo 1](https://www.youtube.com/watch?v=gF6SEQu_m0g) | 00:30:00|
 | 3  |Explicación Ley 31/1995| [Ley 31/1995, de 8 de noviembre, de prevención de Riesgos Laborales](https://www.youtube.com/watch?v=ZBrNPOz2Pnw) | 02:07:00|
 
+En los siguientes enlaces se especifican a mayor detalle el cómo deben aplicar las empresas y trabajadores la prevención de riesgos laborales.  
+
+[Prevención de riesgos laborales para empresas](https://github.com/cs-ehu/Ejemplo/blob/ex2-Karla/UNE157801/6%20Estudios%20con%20entidad%20propia/6.4%20Prevenci%C3%B3n%20de%20Riesgos%20Laborales/Referencias/Prevenci%C3%B3n%20de%20riesgos%20laborales%20(PRL)%20para%20empresas.md)
+
+
+[Prevención de riesgos laborales para trabajadores](https://github.com/cs-ehu/Ejemplo/blob/ex2-Karla/UNE157801/6%20Estudios%20con%20entidad%20propia/6.4%20Prevenci%C3%B3n%20de%20Riesgos%20Laborales/Referencias/Prevenci%C3%B3n%20de%20riesgos%20laborales%20(PRL)%20para%20trabajadores.md)
 
 ## Referencias
 [Ley 31/1995 - Prevención de riesgos laborales](https://www.boe.es/legislacion/codigos/codigo.php?id=037_Prevencion_de_riesgos_laborales)
