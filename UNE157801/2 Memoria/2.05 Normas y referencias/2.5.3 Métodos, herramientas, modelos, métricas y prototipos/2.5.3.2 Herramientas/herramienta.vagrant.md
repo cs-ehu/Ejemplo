@@ -37,7 +37,7 @@ A través de la línea de comandos, puedes seleccionar cualquier SO disponible, 
 
 ### Conclusiones
 
-Este software nos permite crear máquimas virtuales de forma declarativa y de forma portable.
+Este software nos permite crear máquinas virtuales de forma declarativa y de forma portable.
 
 
 

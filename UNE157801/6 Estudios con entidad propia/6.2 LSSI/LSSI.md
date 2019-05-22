@@ -1,4 +1,4 @@
-# La Ley de Servicios de la Sociedad de la Información (LSSI)
+# La Ley de Servicios de la Sociedad de la Información y Comercio Electrónico (LSSI)
 
 ## Índice
 * [Qué es LSSI](#Qué-es-un-EDT)
@@ -40,6 +40,7 @@ Con esta ley se quiere dar más confianza a los internautas para que usen intern
 
 ## Contenido
 ### Obligación de información general *(art. 10)*
+Para cumplir con esta ley, el prestador de servicios, debe poner en el pie de la página web un link, con título “Información Legal”, “Datos LSSI” o similar, con la siguiente información:
 * Nombre, identificación social, NIF y datos de contacto.
 * Datos de inscripción registral para adquirir la personalidad jurídica.
 * Si ejerce una actividad reglada deberá indicar los datos del colegio profesional al que pertenezca, el título académico con el que cuenta y su homologación o reconocimiento.
