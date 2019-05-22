@@ -7,7 +7,7 @@ la situación final especificada en el proyecto.
 ## Contenido: 
 Descripción de todos los elementos que condicionen o se vean afectados por el cambio propuesto en el proyecto: recursos humanos con su formación y experiencia, equipamiento hardware, licencias software, etc.
 
-  4.1. Descripción del entorno actual
+1. Descripción del entorno actual
 
 Dependiendo de la naturaleza y características propias de cada proyecto esta sección podrá tener menor o mayor extensión.
 
@@ -17,7 +17,7 @@ Dependiendo de la naturaleza y características propias de cada proyecto esta se
 Así mismo también se incluirán gráficos relacionados con la organización y puestos de trabajo que se verán afectados. 
 Dada la gran diversidad de proyectos informáticos que pueden llevarse a cabo su impacto en los sistemas, organización y puestos de trabajo afectados puede tener menores o mayores repercusiones. La finalidad de este apartado es recoger y describir de forma clara y concisa dicho impacto.
 
-4.2. Resumen de las principales deficiencias identificados
+2. Resumen de las principales deficiencias identificados
 
 Como en el caso anterior dependiendo de cada proyecto esta sección podrá tener menor o mayor extensión.
 
