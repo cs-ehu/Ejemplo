@@ -59,11 +59,7 @@ En caso de enfermedad profesional, se solicita la Orden de Atención y se presen
 
 ## Referencias
 [Ley 31/1995 - Prevención de riesgos laborales](https://www.boe.es/legislacion/codigos/codigo.php?id=037_Prevencion_de_riesgos_laborales)
-
 [ISO 45001](https://www.nueva-iso-45001.com/)
-
 [ España - Prevención de riesgos laborales](https://prevencion-riesgoslaborales.com/ley-prevencion-riesgos-laborales/)
-
 [Instituto Vasco de Seguridad y Salud Laborales - Prevención de riesgos laborales](http://www.osalan.euskadi.eus/a-quien-nos-dirigimos/-/que-es-la-prevencion-de-riesgos-laborales/)
-
 [Trámites necesarios(importante)](http://www.osalan.euskadi.eus/a-quien-nos-dirigimos/-/osalan-tramites/)

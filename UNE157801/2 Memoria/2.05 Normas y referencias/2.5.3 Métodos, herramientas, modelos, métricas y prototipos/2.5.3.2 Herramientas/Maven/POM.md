@@ -6,7 +6,7 @@
 Es un archivo XML que contiene información sobre el proyecto y los detalles de configuración utilizados por Maven, *es la unidad fundamental de trabajo*. Un POM no es más que la abstracción usada por Maven para definir proyectos.
 
 2. Característica: la modularidad
-    - Maven trabaja modularizando proyectos,de esta forma tendremos varios módulos que conforman un sólo proyecto. Para denotar esta relación en Maven, se crea un archivo super POM y otros archivos pom que heredan del primero.
+    - Maven trabaja modularizando proyectos,de esta forma tendremos varios módulos que conforman un sólo proyecto. Para denotar esta relación en Maven, se crea un archivo padre POM y otros archivos pom que heredan del primero.
 
     - Esta organización sirve para centralizar en el pom padre las variables (como el nombre del proyecto o el número de versión), las dependencias, los repositorios, los complementos u objetivos que se pueden ejecutar, los perfiles de compilación, así como la versión del proyecto, descripción, desarrolladores, listas de correo y similares que son comunes a los módulos, eliminando duplicidad de código.
 
@@ -18,7 +18,26 @@ Es un archivo XML que contiene información sobre el proyecto y los detalles de 
 ## Nociones iniciales
 
 ###  Super pom 
-Un proyecto generado con Maven crea un POM en la raíz del proyecto, el Super POM. Todos los POM amplían el Super POM a menos que se establezca explícitamente, lo que significa que la configuración especificada en el Super POM es heredada por los POM que creó para sus proyectos.
+Todos los POM de proyectos de Maven extienden el Super POM, que define un conjunto de valores predeterminados compartidos por todos los proyectos. Este Super POM es parte de la instalación de Maven. Dependiendo de la versión de Maven, se puede encontrar en el archivo maven-x.y.z-uber.jaro maven-model-builder-xy.z.jaren $ {M2_HOME} / lib . 
+
+El Super POM define algunas variables de configuración estándar que son heredadas por todos los proyectos. Esos valores son capturados en las secciones anotadas:
+
+1. El Súper POM predeterminado define un único repositorio remoto de Maven con un ID de central. Este es el repositorio central que todos los clientes de Maven están configurados para leer de forma predeterminada.
+1. El repositorio central también contiene complementos de Maven. El repositorio de complementos predeterminado es el repositorio central de Maven.
+1. El buildelemento establece los valores predeterminados para los directorios en el diseño del Directorio estándar de Maven.
+1. A partir de Maven 2.0.9, se han proporcionado versiones predeterminadas de los complementos principales en el Super POM. Esto se hizo para proporcionar cierta estabilidad a los usuarios que no están especificando versiones en sus POM. En versiones más recientes, parte de esto se ha migrado fuera del archivo. Sin embargo, aún puede ver las versiones que se utilizarán en su proyecto usando mvn help:effective-pom.
+
+![SuperPom](https://books.sonatype.com/mvnref-book/reference/figs/web/pom-relationships_pom-inherit-simple-super.png)
+
+###  POM efectivo
+La fusión entre el Super POM y el POM desde el POM más simple, debe imprimir un documento XML. Maven utiliza el concepto de herencia para esconder la complejidad de la configuración. 
+
+Se puede obtener a partir del pom del proyecto con el siguiente comando: 
+~~~
+mvn help:effective-pom
+~~~
+
+
 
 ###### Visualización de parte del archivo pom.xml
 ![Estructura inicial POM](https://raw.githubusercontent.com/cs-ehu/img/master/Captura.PNG)
@@ -49,7 +68,7 @@ Estos tres valores forman el nombre de artefacto totalmente calificado del proye
 
 ```
 <modelVersion>4.0.0</modelVersion>
-<groupId>ehu.es.cs19</groupId>
+<groupId>es.ehu.cs19</groupId>
 <artifactId>primerMaven</artifactId>
 <packaging>pom</packaging>
 <version>1.0</version>
@@ -343,7 +362,7 @@ Y en los POM generados para los hijos se verá la relación de parentesco:
 ```  
 <parent>
     <artifactId>primerMaven</artifactId>
-    <groupId>ehu.es.cs19</groupId>
+    <groupId>es.ehu.cs19</groupId>
     <version>1.0</version>
 </parent>
 ```

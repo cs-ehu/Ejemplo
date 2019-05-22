@@ -1,6 +1,13 @@
 ## Registro de interesados
+## Introducción
+La gestión de los interesados del proyecto (Stakeholders), es una función que cada vez adquiere mayor importancia en la gerencia de proyectos, pues ha quedado demostrado que lograr la participación eficaz de los interesados en la ejecución y toma de decisiones es fundamental para el éxito.
 
-El registro de interesados sirve para recoger toda la información sobre los individuos y grupos que tienen interés en el trabajo que se realiza.
+Es por esto que la **Metodología PMI** da cada vez mayor relevancia a la gestión de los interesados, hasta el punto de incluir la nueva área de conocimientos de gestión de los interesados en la guía del PMBOK 5 tratados en el área de RR.HH del Proyecto. 
+
+La gestión eficaz de los interesados del proyecto parte de la oportuna identificación y mantenimiento de un registro de los mismos, para lo cual el gerente de proyectos cuenta con un instrumento que se denomina registro de los interesados.
+El registro de interesados sirve para recoger toda la información sobre los individuos y grupos que tienen interés en el trabajo que se realiza o que pueden ser afectados por el proyecto.
+
+## Características
 
 Aspectos a tener en cuenta en el registro son:
 
@@ -38,3 +45,7 @@ Aspectos a tener en cuenta en el registro son:
   - Matriz de interés sobre una matriz que tiene escalas de interés e influencia. Sirve para identificar de una forma rápida a los interesados para saber como se deben gestionar las comunicaciones. 
   
   ![Matriz de interés](https://raw.githubusercontent.com/cs-ehu/img/master/matrizInvolucrados.jpg)
+
+## Referencias
+1. [Registro de interesados](https://www.praxisframework.org/es/method/stakeholder-register)
+2. [Plantilla del registro de interesados](http://www.pmoinformatica.com/2015/04/plantilla-registro-de-interesados.html)

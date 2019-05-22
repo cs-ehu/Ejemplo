@@ -7,14 +7,20 @@ Usando mvn test se pueden ejecutar tests en Maven
 1.  mvn test* &rarr; ejecutar todas las unit test
 2.  mvn -Dtest=TestApp1 test* &rarr; ejecutar una única unit test
 3.  mvn -Dtest=TestApp1,TestApp2 test* &rarr; ejecutar múltiples unit test.
-
-
-
+4.  mvn -Dtest=TestApp1#methodname test; ejecutar un solo método de prueba desde una clase de prueba.
+5.  mvn -Dtest=TestApp1#testHello* test; ejecutar todos los métodos de prueba que coincidan con el patrón 'testHello' de una clase de prueba.
+6.  mvn -Dtest=TestApp1#testHello*+testMagic* test; ejecutar todos los métodos de prueba que coincidan con el patrón 'testHello ' y 'testMagic ' de una clase de prueba.
 
 ---
+
+El plugin Surefire se usa durante la fase de test del ciclo de vida para ejecutar los test de una aplicación.
+Genera los reportes en dos formatos: 
+
+=======
 =======
 El plugin Surefire se usa durante la fase de test del ciclo de vida para ejecutar los test de una aplicación.
 Genera los informes en dos formatos: 
+
 - Texto plano(*.txt)
 - XML(*.xml)
 =======
