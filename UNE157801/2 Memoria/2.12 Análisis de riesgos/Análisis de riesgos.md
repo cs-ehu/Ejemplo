@@ -110,3 +110,4 @@ específica de una industria o sector concreto.
 [Vídeo - What Is Risk Management In Projects?](https://www.youtube.com/watch?v=x7A9idByPA4)
 
 **Capítulo 11 de PMBoK (Quinta Edición)**
+

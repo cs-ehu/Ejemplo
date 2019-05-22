@@ -1,7 +1,41 @@
+
 # Lista de requisitos
 
+## Índice
+* [Introducción](#Introducción)
+* [Clasificación de los requerimientos funcionales](#Clasificación-de-los-requerimientos-funcionales)
+* [Clasificación de los requerimientos no funcionales](#Clasificación-de-los-requerimientos-no-funcionales)
+
+
 ## Introducción
-La Ingeniería de Requisitos es una de las partes cruciales en el éxito de todo proyecto software. La aparición de errores o carencias durante la recogida de requisitos implica un descenso en la productividad del proceso de desarrollo y, por lo tanto, un incremento del coste del mismo. Incluir una adecuada ingeniería de requisitos en el ciclo de vida del software minimizará la posibilidad de que esto ocurra. La Ingeniería de Requisitos se convierte en pieza clave para poder medir la calidad de un sistema informático al poder iniciar la definición de la batería de pruebas que el sistema debe pasar, garantizando que éstas satisfacen los requisitos establecidos y por lo tanto el sistema es válido y funcionalmente es correcto.
+
+  Los requisitos software son la descripción de las características y las funcionalidades del sistema 'target'. Los requisitos nos comunican las expectativas de los consumidores de productos software. Los requisitos pueden ser obvios o estar ocultos, conocidos o desconocidos, esperados o inesperados, desde el punto de vista del cliente.
+  
+  
+## Clasificación de los requerimientos funcionales
+
+    1. Descripciones de los datos a ser ingresados en el sistema.
+    2. Descripciones de las operaciones a ser realizadas por cada pantalla.
+    3. Descripción de los flujos de trabajo realizados por el sistema.
+    4. Descripción de los reportes del sistema y otras salidas.
+    5. Definición de quien puede ingresar datos en el sistema.
+    6. Como el sistema cumplirá los reglamentos y regulaciones de sector o generales que le sean aplicables.
+
+## Clasificación de los requerimientos no funcionales
+
+    1. Requerimientos no funcionaes de producto     
+        * Usabilidad
+        * Eficiencia
+        * Dependencia
+        * Seguridad
+    2. Requerimientos no funcionaes organizacionales
+        *Entorno
+        *Organizacionales
+        *Desarrollo
+    3. Requerimientos no funcionaes externos 
+        *Regulatorios
+        *Éticos
+        *Legislativos
 
 Los ingenieros de requisitos deben elaborar la propuesta en forma de requisitos del sistema software a desarrollar usando como entrada la información que se va generando en el procedimiento [Identificar las necesidades de negocio de clientes y usuarios](http://www.juntadeandalucia.es/servicios/madeja/contenido/procedimiento/19). Lo habitual es comenzar por los aspectos más generales del sistema (su visión general), para ir avanzando en el nivel de detalle hasta que se considere suficiente como para que pueda continuarse el desarrollo sin tener que plantear preguntas continuas sobre la conducta del sistema a desarrollar.
 
@@ -96,3 +130,4 @@ A la hora de establecer los atributos de los requisitos se deben de considerar l
 
 [Bibliografía](http://www.juntadeandalucia.es/servicios/madeja/contenido/recurso/409)
   
+

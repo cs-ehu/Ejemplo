@@ -1,3 +1,4 @@
+
 # Acta de constitución del proyecto
 
 ## Índice
@@ -15,7 +16,7 @@ El Acta de Constitución del Proyecto es un documento en el que se define la via
 ## Objetivo
 En algunas situaciones, se ha dado el caso de haber algún malentendido entre el alto nivel de la organización, el cliente y el promotor durante el ciclo de vida del proyecto, por ello se desarrolla este documento, para pactar un acta entre todos que sea satisfactorio con lo que se desea desarrollar.
 
-Los aspectos comentados en dicha acta son las razones por las que se considera que se debe iniciar el proyecto, aquello que justifica su existencia. De esta manera, todos los implicados en este proyecto ya tienen claro cuáles son los objetivos del proyecto y no se dará ningún malentendido ya que está escrito en el acta de constitución de grupo.
+Los aspectos comentados en dicha acta son las razones por las que se considera que se debe iniciar el proyecto, aquello que justifica su existencia. De esta manera, todos los implicados en este proyecto ya tienen claro cuales son los objetivos del proyecto y no se dará ningún malentendido ya que está escrito en el acta de constitución de grupo.
 
 ## Aspectos a tener en cuenta
 En tus proyectos siempre debes tener en cuenta que la dirección de proyectos es progresiva, acumulativa, cuando avanzamos en el proyecto cada vez sabemos más de él, cosas que solo podemos adquirir con la experiencia y que vamos descubriendo durante el ciclo de vida del proyecto.
@@ -34,7 +35,7 @@ El acta de constitución del proyecto no es una excepción, por lo tanto, lo que
 * Resumen del cronograma de hitos.
 * Resumen del presupuesto del proyecto.
 * Lista de los interesados (Stakeholders).
-* Requisitos de aprobación del proyecto (Como se define el “éxito” del proyecto, quien decide si tiene éxito o no, quien firma la aprobación).
+* Requisitos de aprobación del proyecto (Como se define el “éxito” del proyecto, quién decide si tiene éxito o no, quien firma la aprobación).
 * Criterios de cierre o cancelación del proyecto.
 * Gerente de proyecto asignado, responsabilidad y nivel de autoridad.
 * Nombre y nivel de autoridad del patrocinador o de quienes autorizan el acta de constitución del proyecto.
@@ -60,9 +61,6 @@ En este caso el Gerente de proyecto colabora con el patrocinador, entrevistando 
 * https://es.slideshare.net/Widowmaker88/acta-de-constitucion-del-proyecto
 * https://prezi.com/tp8vnajfgj7b/acta-de-constitucion-del-proyecto/
 
-#### Vídeo de interes 
-[How to Write a Project Management Charter](https://www.youtube.com/watch?v=I4JsU42IO6g)
-
 ## Bibliografía
 [Acta de constitución del proyecto](http://gestion-de-proyectos.gedpro.com/home/objetos/acta-de-constitucion-del-proyecto)
 
@@ -71,5 +69,4 @@ En este caso el Gerente de proyecto colabora con el patrocinador, entrevistando 
 [Información general del acta](https://uv-mdap.com/blog/como-hacer-una-acta-de-constitucion/)
 
 [Descargar de una plantilla del acta](https://sites.google.com/site/oficinaproyectosinformatica/home/archivo/PMOInformatica%20Plantilla%20Acta%20de%20Proyecto.doc?attredirects=0&d=1)
-
 
