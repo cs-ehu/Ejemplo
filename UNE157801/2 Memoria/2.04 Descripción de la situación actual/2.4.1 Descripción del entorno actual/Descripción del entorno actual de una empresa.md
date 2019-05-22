@@ -20,7 +20,7 @@ Para llevarlo a cabo se estudian los siguientes factores:
 * *Personal*. 
 * *Finanzas.*
 
-#### *El análisis externo*
+#### *Análisis Externo*
 
 Se trata de identificar y analizar las amenazas y oportunidades de nuestro mercado. La organización no existe ni puede existir fuera de un entorno que le rodea. Así que el análisis externo permite fijar las oportunidades y amenazas que el contexto puede presentarle a una organización. Se puede complementar con el análisis PESTEL. 
 Las **oportunidades** son aquellos factores positivos que se generan en el entorno y que, una vez identificados, pueden ser aprovechados.
@@ -55,10 +55,17 @@ Cada sigla del P.E.S.T.E.L tiene un significado muy claro que vamos a abordar a 
 * *Legales*:  Son los factores relacionados con la obligación de cumplir las leyes establecidas. Hay que conocer la legislación y los cambios en la normativa relacionada con la empresa, que le puede afectar de forma directa o indirecta.
 
 
+
+Conclusión:
+Estos tipos de análisis ayudarán a conocer de una forma correcta el entorno de la empresa. Esto es muy importante para prevenir ciertos inconvenientes, y garantizar la viabilidad de nuestro proyecto. 
+
+[Fuente de información 1](https://es.wikipedia.org/wiki/An%C3%A1lisis_DAFO)
+
 ## Conclusión
 Estos 2 análisis ayudan a conocer de una forma correcta el entorno de la empresa. Esto es muy importante para prevenir ciertos inconvenientes, y garantizar la viabilidad de nuestro proyecto. 
 
 ## Referencias
+
 
 1. [Análisis de la situación actual de la empresa](https://cei.es/analisis-situacion-actual-empresa/)
 
