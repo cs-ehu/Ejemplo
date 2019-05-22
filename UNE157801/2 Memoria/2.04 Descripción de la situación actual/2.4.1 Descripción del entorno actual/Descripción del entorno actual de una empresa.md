@@ -1,11 +1,9 @@
 # Descripción del entorno actual de una empresa
-
+## Introducción
 Una de las principales necesidades de los emprendedores es conocer la situación actual de la empresa. La idea es tener un claro entendimiento del entorno de actuación, de las fortalezas y debilidades del proyecto y las posibles mejoras que se pudieran adoptar para mejorar constantemente. Este es un proceso que permitirá tener claro los pasos a seguir para lograr el éxito empresarial.
 
-En este documento, se definirán técnicas de marketing para analizar el entorno de una empresa. 
-
 ## Análisis D.A.F.O
-Esta técnica se puede aplicar a cualquier tipo de negocio.Aquí, se analiza de manera interna, las Debilidades y Fortalezas del proyecto, y de manera externa se evalúan las Amenazas y las Oportunidades que nos ofrece el entorno.
+Esta técnica se puede aplicar a cualquier tipo de negocio. Aquí, se analiza de manera interna, las Debilidades y Fortalezas del proyecto, y de manera externa se evalúan las Amenazas y las Oportunidades que nos ofrece el entorno.
 A continuación, se muestra un ejemplo de un análisis de este tipo.
 ![Imagen de ejemplo DAFO](https://media.iastatic.es/ia_img/image/analisis_dafo_png_770x570_q85.jpg)
 
@@ -57,16 +55,23 @@ Cada sigla del P.E.S.T.E.L tiene un significado muy claro que vamos a abordar a 
 * *Legales*:  Son los factores relacionados con la obligación de cumplir las leyes establecidas. Hay que conocer la legislación y los cambios en la normativa relacionada con la empresa, que le puede afectar de forma directa o indirecta.
 
 
+
 Conclusión:
 Estos tipos de análisis ayudarán a conocer de una forma correcta el entorno de la empresa. Esto es muy importante para prevenir ciertos inconvenientes, y garantizar la viabilidad de nuestro proyecto. 
 
 [Fuente de información 1](https://es.wikipedia.org/wiki/An%C3%A1lisis_DAFO)
 
-[Fuente de información 2](https://anatrenza.com/analisis-pestel)
+## Conclusión
+Estos 2 análisis ayudan a conocer de una forma correcta el entorno de la empresa. Esto es muy importante para prevenir ciertos inconvenientes, y garantizar la viabilidad de nuestro proyecto. 
 
-[Fuente de información 3](https://es.wikipedia.org/wiki/An%C3%A1lisis_PESTEL/)
+## Referencias
 
-[Fuente de información 4](https://cei.es/analisis-situacion-actual-empresa/)
 
-[Fuente de información 5](https://www.bevator.com/analisis-del-entorno-y-los-factores-externos-que-influyen-en-tu-modelo-de-negocio/)
+1. [Análisis de la situación actual de la empresa](https://cei.es/analisis-situacion-actual-empresa/)
+
+2. [Análisis PESTEL](https://anatrenza.com/analisis-pestel)
+
+3. [Wikipedia -Análisis DAFO](https://es.wikipedia.org/wiki/An%C3%A1lisis_DAFO)
+
+4. [Análisis del entorno y los factores externos que influyen en tu modelo de negocio](https://www.bevator.com/analisis-del-entorno-y-los-factores-externos-que-influyen-en-tu-modelo-de-negocio/)
 

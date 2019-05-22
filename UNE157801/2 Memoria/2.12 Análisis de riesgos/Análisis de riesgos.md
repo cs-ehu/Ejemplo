@@ -32,7 +32,7 @@ Los participantes en las actividades de identificación de riesgos pueden inclui
 Identificar los riesgos es un proceso iterativo debido a que pueden evolucionar o se pueden descubrir nuevos riesgos conforme el proyecto avanza a lo largo de su ciclo de vida. La frecuencia de iteración y la participación en cada ciclo varía de una situación a otra.
 
 ## Realizar el Análisis Cualitativo de Riesgos
-Es el proceso de priorizar riesgos para análisis o acciónes posteriores, evaluando y combinando la probabilidad de ocurrencia e impacto de dichos riesgos. El beneficio clave de este proceso es que permite a los directores de proyecto reducir el nivel de incertidumbre y concentrarse en los riesgos de alta prioridad.
+Es el proceso de priorizar riesgos para análisis o acciones posteriores, evaluando y combinando la probabilidad de ocurrencia e impacto de dichos riesgos. El beneficio clave de este proceso es que permite a los directores de proyecto reducir el nivel de incertidumbre y concentrarse en los riesgos de alta prioridad.
 
 Realizar el Análisis Cualitativo de Riesgos evalúa la prioridad de los riesgos identificados a través de la probabilidad relativa de ocurrencia, del impacto correspondiente sobre los objetivos del proyecto si los riesgos llegaran a presentarse, así como de otros factores, tales como el plazo de respuesta y la tolerancia al riesgo por parte de la organización, asociados con las restricciones del proyecto en términos de costo, cronograma, alcance y calidad.
 
@@ -89,7 +89,7 @@ Una vez hecho el análisis de riesgo, nos queda gestionarlo, de manera que no en
 ### Ejemplos
 Unos ejemplos de un análisis de riesgos serían los siguientes:
 * Falta de material para realizar el trabajo
-* En los trabajos en grupo, la descordinación de horarios del personal
+* En los trabajos en grupo, la descoordinación de horarios del personal
 * La actitud de los compañeros de trabajo
 
 ## ISO 31000:2009
