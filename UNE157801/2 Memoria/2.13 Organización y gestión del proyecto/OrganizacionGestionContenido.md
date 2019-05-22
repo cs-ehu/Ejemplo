@@ -26,7 +26,7 @@ organización propiamente dicha.
 1.3. Interfaces externas
 * Objetivo: En la actualidad gran número de proyectos de sistemas de información necesitan integrarse con sistemas ya existentes en la organización para la que se lleva a cabo y/o de la interoperabilidad con sistemas de información de terceras organizaciones.
 En el caso de las AA.PP. y tras la publicación del Esquema nacional de Interoperabilidad (ENI) este aspecto ha adquirido mayor importancia y exigencias de cumplimiento.
-* Contenido: El contenido de este apartado se podrá expresar mediante una matriz que sintetice estas necesidades en la que se indicará: la organización (propia o externa), elsistema de información y la necesidad de integración o interoperabilidad que se precisa.
+* Contenido: El contenido de este apartado se podrá expresar mediante una matriz que sintetice estas necesidades en la que se indicará: la organización (propia o externa), el sistema de información y la necesidad de integración o interoperabilidad que se precisa.
 Nota: Es importante que estas necesidades de integración y /o interfaces externas estén
 definidas en los requisitos.
 1.4. Roles y responsabilidades
