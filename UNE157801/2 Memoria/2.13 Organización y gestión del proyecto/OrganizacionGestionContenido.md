@@ -37,17 +37,17 @@ la naturaleza del proyecto y número de actores participantes. Cuanto mayor sea 
 complejidad del proyecto a llevar a cabo también deberá ser mayor el grado de detalle de la matriz.
 2. Gestión del proyecto
 * Objetivo: Dependiendo del tipo de proyecto, debe de incluir un resumen de los planes de:
-  - Gestión de requisitos,
-  - Gestión y Validación de las funcionalidades requeridas,
-  - Gestión y Validación del diseño técnico y arquitectura del sistema,
-  - Gestión de la configuración,
-  - Gestión de incidencias,
-  - Gestión de riesgos,
-  - Gestión y Validación de las pruebas,
-  - Gestión de la coordinación del proyecto,
-  - Gestión de plazos y presupuesto,
-  - Gestión y aseguramiento de la calidad,
-  - Gestión y Validación de los entregables, 
-  - Aceptación de los productos / servicios.
+  - Gestión de requisitos
+  - Gestión y Validación de las funcionalidades requeridas
+  - Gestión y Validación del diseño técnico y arquitectura del sistema
+  - Gestión de la configuración
+  - Gestión de incidencias
+  - Gestión de riesgos
+  - Gestión y Validación de las pruebas
+  - Gestión de la coordinación del proyecto
+  - Gestión de plazos y presupuesto
+  - Gestión y aseguramiento de la calidad
+  - Gestión y Validación de los entregables
+  - Aceptación de los productos / servicios
 Los procedimientos detallados para llevar a cabo la gestión del proyecto se detallarán en el anexo correspondiente a “Planes de Gestión del proyecto”.
 * Contenido: En este apartado se incluirá un resumen de los planes de gestión que se tendrán en cuenta en la realización del proyecto. 
