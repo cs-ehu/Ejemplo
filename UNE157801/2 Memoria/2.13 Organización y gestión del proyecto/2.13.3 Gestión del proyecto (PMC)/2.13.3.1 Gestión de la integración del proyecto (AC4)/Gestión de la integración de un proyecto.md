@@ -11,7 +11,7 @@ Los procesos de Gestión de la Integración del Proyecto son:
 
 1. Desarrollar el Acta de Constitución del Proyecto: Es el proceso de desarrollar un documento que autoriza formalmente la existencia de un proyecto y confiere al director del proyecto la autoridad para aplicar los recursos de la organización a las actividades del proyecto. 
 
-2. Desarrollar el Plan para la Dirección del Proyecto:Es el proceso de definir, preparar y coordinar todos los componentes del plan y consolidarlos en un plan integral para la dirección del proyecto. 
+2. Desarrollar el Plan para la Dirección del Proyecto: Es el proceso de definir, preparar y coordinar todos los componentes del plan y consolidarlos en un plan integral para la dirección del proyecto. 
 
 3. Dirigir y Gestionar el Trabajo del Proyecto: Es el proceso de liderar y llevar a cabo el trabajo definido en el plan para la dirección del proyecto e implementar los cambios aprobados para alcanzar los objetivos del proyecto. 
 
