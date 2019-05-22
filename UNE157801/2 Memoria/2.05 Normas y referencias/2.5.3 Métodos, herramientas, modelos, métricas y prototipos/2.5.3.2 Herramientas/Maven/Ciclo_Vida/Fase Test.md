@@ -12,11 +12,18 @@ Usando mvn test se pueden ejecutar tests en Maven
 6.  mvn -Dtest=TestApp1#testHello*+testMagic* test; ejecutar todos los métodos de prueba que coincidan con el patrón 'testHello ' y 'testMagic ' de una clase de prueba.
 
 ---
+
 El plugin Surefire se usa durante la fase de test del ciclo de vida para ejecutar los test de una aplicación.
 Genera los reportes en dos formatos: 
 
+=======
+=======
+El plugin Surefire se usa durante la fase de test del ciclo de vida para ejecutar los test de una aplicación.
+Genera los informes en dos formatos: 
+
 - Texto plano(*.txt)
 - XML(*.xml)
+=======
 
 Última versión de [maven-surefire-plugin][link]: 2018-12-20
 
@@ -248,6 +255,9 @@ Resultados del terminal
     [INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.006 s - in es.ehu.cs19.TestMensaje
     [INFO]
     [INFO] Results:
+    [INFO]
+    [INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
+    [INFO]
     [INFO]
     [INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
     [INFO]
