@@ -23,6 +23,6 @@ núcleo de la normativa, así como Guía del PMBOK®- Quinta Edición “PMI - G
 |Autor (es) |Identifica a) En su caso Nombre y apellidos, titulación, y si procede colegio profesional al que pertenece, número de colegiado, N.I.F., dirección profesional, teléfono, fax y cualquier otro identificador profesional que pueda aparecer o existir, de cada uno de los autores del proyecto. b) Fecha y firma de los anteriormente mencionados|
 |Resumen|  |
 |Duración estimada en jornadas: |Fecha de inicio y Fecha de finalización (se indicaran cuando ambas estén aprobadas por contrato)|
-|Presupuesto y moneda |Importe total del proyecto Importe de los impuestos aplicables al proyecto: (se indicaran cuando estén aprobados por contrato)|
+|Presupuesto y moneda |Importe total del proyecto Importe de los impuestos aplicables al proyecto (se indicaran cuando estén aprobados por contrato)|
 
 #### [Plantilla completa](https://www.inf.upv.es/www/etsinf/wp-content/uploads/2018/05/plantillaNorma.pdf)
