@@ -1,9 +1,11 @@
 # Gestión de la integración de un proyecto
 La Gestión de la Integración del Proyecto incluye los procesos y actividades para identificar, definir, combinar, unificar y coordinar los diversos procesos y actividades de dirección del proyecto dentro de los Grupos de Procesos de la Dirección de Proyectos. En el contexto de la dirección de proyectos, la integración incluye características de unificación, consolidación, comunicación e interrelación. Estas acciones deberían aplicarse desde el inicio del proyecto hasta su conclusión. La Gestión de la Integración del Proyecto incluye tomar decisiones sobre:
 - Asignación de recursos
+
 - Equilibrio de demandas que compiten entre sí mediante un examen de enfoques alternativos
 -  Adaptación de los procesos para cumplir con los objetivos del proyecto
 -  Gestión de las interdependencias entre las Áreas de Conocimiento de la Dirección de Proyectos
+
 
 Los procesos de Gestión de la Integración del Proyecto son: 
 
@@ -28,6 +30,7 @@ Los vínculos entre los procesos de los Grupos de Procesos de la Dirección de P
 
 La Gestión de la Integración del Proyecto tiene que ver con:
 - Asegurar que las fechas límite de los entregables del producto, servicio o resultado, el ciclo de vida del proyecto y el plan de gestión de beneficios estén alineadas
+
 - Proporcionar un plan para la dirección del proyecto a fin de alcanzar los objetivos del proyecto.
 - Asegurar la creación y el uso del conocimiento adecuado hacia y desde el proyecto.
 - Gestionar el desempeño y los cambios de las actividades en el plan para la dirección del proyecto. 
@@ -36,6 +39,7 @@ La Gestión de la Integración del Proyecto tiene que ver con:
 -Recopilar datos sobre los resultados alcanzados, analizar los datos para obtener información y comunicar esta información a los interesados relevantes.
 - Completar todo el trabajo del proyecto y cerrar formalmente cada fase, contrato y el proyecto en su conjunto.
 - Gestionar las transiciones de fases, cuando sea necesario. Cuanto más complejo sea el proyecto y más variadas las expectativas de los interesados, más se necesita un enfoque sofisticado de la integración.
+
 
 ## TENDENCIAS Y PRÁCTICAS EMERGENTES EN LA GESTIÓN DE LA INTEGRACIÓN DEL PROYECTO
 
