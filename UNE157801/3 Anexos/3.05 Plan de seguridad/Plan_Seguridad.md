@@ -53,9 +53,11 @@ Además de seguir estas consideraciones en los desarrollos de las aplicaciones, 
 Una parte importante de los problemas de seguridad de los sistemas de información tiene su origen en defectos o carencias en las aplicaciones que los integran, lo cual eleva enormemente el riesgo de sufrir un incidente.
 
 ## Enlaces de interes
-[Implantación de un SGSI en la empresa ](https://www.incibe.es/extfrontinteco/img/File/intecocert/sgsi/img/Guia_apoyo_SGSI.pdf)
+| ID      | Descripción | Referencia | Tiempo  |
+| ------- | ----------- | ---------- | ------- |
+| 1  | Guía de apoyo SGSI       | [Implantación de un SGSI en la empresa ](https://www.incibe.es/extfrontinteco/img/File/intecocert/sgsi/img/Guia_apoyo_SGSI.pdf) | 02:30:00|
+| 2  | ISO/IEC 27001      | [ISO/IEC 27001](https://es.wikipedia.org/wiki/ISO/IEC_27001) | 00:45:00|
 
-[ISO/IEC 27001](https://es.wikipedia.org/wiki/ISO/IEC_27001)
 
 ## Bibliografía
 
