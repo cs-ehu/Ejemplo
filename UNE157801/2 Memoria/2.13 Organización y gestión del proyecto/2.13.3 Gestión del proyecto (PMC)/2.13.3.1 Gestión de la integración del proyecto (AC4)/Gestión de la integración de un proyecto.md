@@ -1,7 +1,7 @@
 # Gestión de la integración de un proyecto
 La Gestión de la Integración del Proyecto incluye los procesos y actividades para identificar, definir, combinar, unificar y coordinar los diversos procesos y actividades de dirección del proyecto dentro de los Grupos de Procesos de la Dirección de Proyectos. En el contexto de la dirección de proyectos, la integración incluye características de unificación, consolidación, comunicación e interrelación. Estas acciones deberían aplicarse desde el inicio del proyecto hasta su conclusión. La Gestión de la Integración del Proyecto incluye tomar decisiones sobre:
 - Asignación de recursos
-- Equilibrio de demandas que compiten entre sí, uu Examen de enfoques alternativos
+- Equilibrio de demandas que compiten entre sí, un Examen de enfoques alternativos
 -  Adaptación de los procesos para cumplir con los objetivos del proyecto,
 -  Gestión de las interdependencias entre las Áreas de Conocimiento de la Dirección de Proyectos.
 
